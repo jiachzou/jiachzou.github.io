@@ -16,6 +16,7 @@ I'm interested in developing new methods inspired by computer science and operat
 
 You can reach me at gzguan at stanford dot edu!
 
+[Link to my CV](https://www.dropbox.com/s/em3ama4wr9qxhc9/GraceCVLatest.pdf?dl=0)
 
 Updates
 ------
@@ -29,7 +30,7 @@ Updates
 
 * **[July 2021]** Our paper on using human mobility data to detect COVID-19 outbreaks was published!
 
-* **[July 2021]** Presented our paper on using human mobility data to detect COVID-19 outbreaks at INFORMS Healthcare
+* **[July 2021]** Presented our paper on using human mobility data to detect COVID-19 outbreaks, and our work on empirical characteristics of Affordable Care Act risk transfers at INFORMS Healthcare
 
 
 
