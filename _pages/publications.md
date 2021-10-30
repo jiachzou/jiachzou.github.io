@@ -11,6 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+------
+
+Merav Mofaz, Matan Yechezkel, **Grace Guan**, Margaret L. Brandeau, Tal Patalon, Sivan Gazit, Dan Yamin, Erez Shmueli. Self-reported and physiological reactions to the third BNT162b2 mRNA COVID-19 (booster) vaccine dose. [[medRxiv preprint](https://www.medrxiv.org/content/10.1101/2021.09.15.21263633v3)]
+
+
+**Grace Guan**, Yotam Dery, Matan Yechezkel, Irad Ben-Gal, Dan Yamin, Margaret L. Brandeau. Early Detection of COVID-19 Outbreaks Using Human Mobility Data. *PLoS ONE*, 2021, 16(7):e0253865. [[pdf](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253865)] | [[code](https://github.com/guanzgrace/early-detection-of-covid19)]
+
+
+**Grace Guan**, Barbara E. Engelhardt. Predicting Sick Patient Volume in a Pediatric Outpatient Setting using Time Series Analysis. *Proceedings of Machine Learning Research*, 2019, 106:271-287. [[pdf](http://proceedings.mlr.press/v106/guan19a/guan19a.pdf)] | [[code](https://github.com/guanzgrace/predicting-patient-volume)]
