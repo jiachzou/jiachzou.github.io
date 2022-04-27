@@ -14,6 +14,11 @@ author_profile: true
 
 Publications
 ------
+
+Merav Mofaz, Matan Yechezkel, **Grace Guan**, Margaret L. Brandeau, Tal Patalon, Sivan Gazit, Dan Yamin, Erez Shmueli. [**Self-reported and physiological reactions to the third BNT162b2 mRNA COVID-19 (booster) vaccine dose**](https://www.medrxiv.org/content/10.1101/2021.09.15.21263633v3). *Emerging Infectious Diseases*, 2022, In Press.
+- [[medRxiv preprint](https://www.medrxiv.org/content/10.1101/2021.09.15.21263633v3)]
+
+
 **Grace Guan**, Yotam Dery, Matan Yechezkel, Irad Ben-Gal, Dan Yamin, Margaret L. Brandeau. [**Early Detection of COVID-19 Outbreaks Using Human Mobility Data**](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253865). *PLoS ONE*, 2021, 16(7):e0253865.
 - [[pdf](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253865)] [[code](https://github.com/guanzgrace/early-detection-of-covid19)]
 
@@ -24,14 +29,16 @@ Publications
 
 Working Papers
 ------
-Merav Mofaz, Matan Yechezkel, **Grace Guan**, Margaret L. Brandeau, Tal Patalon, Sivan Gazit, Dan Yamin, Erez Shmueli. [**Self-reported and physiological reactions to the third BNT162b2 mRNA COVID-19 (booster) vaccine dose**](https://www.medrxiv.org/content/10.1101/2021.09.15.21263633v3).
-- [[medRxiv preprint](https://www.medrxiv.org/content/10.1101/2021.09.15.21263633v3)]
+
+**Grace Guan**, Merav Mofaz, Gary Qian, Tal Patalon, Erez Shmueli, Dan Yamin, Margaret L. Brandeau. [**Higher sensitivity monitoring of reactions to vaccines using smartwatches: Evidence from a large-scale prospective study.**]().
 
 
 **Grace Guan**, Neha S. Joshi, Grace D. Achepohl, Rebecca Dang, N. Kenji Taylor, Joshua A. Salomon, Jeremy D. Goldhaber-Fiebert, Douglas K. Owens. [**A Cost-Effectiveness Analysis of Approaches to Identify Infants at Risk for Early Onset Sepsis**]().
 
 
-**Grace Guan**, Mark Braverman. [**Empirical Characteristics of Affordable Care Act Risk Transfers**](). Princeton CS Senior Thesis. **Won Outstanding Computer Science Senior Thesis Prize**
+**Grace Guan**, Mark Braverman. [**Empirical Characteristics of Affordable Care Act Risk Transfers**]().
+- Princeton CS Senior Thesis.
+- **Won Outstanding Computer Science Senior Thesis Prize**
 
 
 Conference Talks and Posters
