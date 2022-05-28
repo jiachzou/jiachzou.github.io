@@ -16,10 +16,12 @@ I'm interested in developing new methods inspired by computer science and operat
 
 You can reach me at gzguan at stanford dot edu!
 
-[Link to my CV](https://www.dropbox.com/s/em3ama4wr9qxhc9/GraceCVLatest.pdf?dl=0)
+[Link to my CV](https://drive.google.com/file/d/17SoBp7t2NAmZMDf0a1w4YG38mx5zj2De/view?usp=sharing)
 
 Updates
 ------
+* **[April 2022]** Selected as [NCWIT Collegiate Award Honorable Mention](https://msande.stanford.edu/news/grace-guan-selected-2022-ncwit-collegiate-award-honorable-mention)!
+
 * **[October 2021]** Presented our paper on using human mobility data to detect COVID-19 outbreaks at INFORMS Annual Meeting
 
 * **[October 2021]** Presented our cost-effectiveness analysis of approaches to identify infants at risk of early onset sepsis at Society for Medical Decision Making Annual Meeting
