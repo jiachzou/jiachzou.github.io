@@ -14,7 +14,7 @@ I'm interested in developing new methods inspired by STATS and OR to improve the
 
 You can reach me at jiacheng zou at stanford dot edu!
 
-[Link to my CV](https://drive.google.com/file/d/17SoBp7t2NAmZMDf0a1w4YG38mx5zj2De/view?usp=sharing)
+[Link to my CV](https://drive.google.com/file/d/1JpwM2UUtm8bvMU090gdG5jjB63Kvvg-g/view?usp=sharing)
 
 Updates
 ------
