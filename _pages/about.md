@@ -12,7 +12,7 @@ I am a 5th year PhD student in [Management Science and Engineering](https://msan
 
 I am passionate about improving human decision making with interpretable and transparent machine learning, especially in high-stake domains. To this end, I am building econometrics tools and applying them to real-life problems. My current work focuses on:
  - learning-informed market design problems, including experiment design, causal inference and algorithm design for cadevar organ allocations;
- - statistical guardrail to address the [reproducibility crisis](https://www.nature.com/articles/533452a), particularly in inference problems on high-dimensional panel data of empirical asset pricing.
+ - statistical guardrail for the [reproducibility crisis](https://www.nature.com/articles/533452a), particularly in inference problems on high-dimensional panel data of empirical asset pricing.
 
 You can reach me at jiacheng zou at stanford dot edu!
 
