@@ -17,5 +17,5 @@ Working Papers
 
 * Pelger M, **Zou J**. [**Conditional Inference for High-Dimensional Panel Data with Many Covariates**]().
     - 2022 California Econometrics Conference
-	- Featured in Stanford HAI Financial Services Industry Review(https://hai.stanford.edu/industry-brief-financial-services-and-ai)
+	- Featured in Stanford HAI [Financial Services Industry Review](https://hai.stanford.edu/industry-brief-financial-services-and-ai)
 
