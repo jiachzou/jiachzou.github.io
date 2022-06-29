@@ -12,18 +12,12 @@ I am a 5th year PhD student in [Management Science and Engineering](https://msan
 
 I'm interested in developing new methods inspired by STATS and OR to improve the quality of patient care, both at the population health level and at the clinical level.
 
-You can reach me at gzguan at stanford dot edu!
+You can reach me at jiacheng zou at stanford dot edu!
 
 [Link to my CV](https://drive.google.com/file/d/17SoBp7t2NAmZMDf0a1w4YG38mx5zj2De/view?usp=sharing)
 
 Updates
 ------
-* **[May 2022]** Presented our paper at California Econometrics Conference.
+* **[May 2022]** Presented our conditional inference paper at California Econometrics Conference.
 
 * **[April 2020]** Advanced to PhD Candidacy.
-
-
-
-Other Projects
-------
-* [Stretch Reminder Chrome Extension](http://guanzgrace.github.io/stretch) ([Beta Test Version](http://guanzgrace.github.io/stretch/beta)) (750+ daily users!)
