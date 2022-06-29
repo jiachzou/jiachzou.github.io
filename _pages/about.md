@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 5th year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, advised by [Markus Pelger](https://mpelger.people.stanford.edu/). I am student organizer of the [Advanced Financial Technologies Lab Doctoral Seminars](https://fintech.stanford.edu/events/doctoral-seminars). 
+I am a 5th year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, advised by [Markus Pelger](https://mpelger.people.stanford.edu/). [Kay Giesecke](https://giesecke.people.stanford.edu/) and [Peter W. Glynn](https://web.stanford.edu/~glynn/) are members of my dissertation reading committee. I am the student organizer of the [Advanced Financial Technologies Lab Doctoral Seminars](https://fintech.stanford.edu/events/doctoral-seminars). 
 
 I'm broadly interested in bulding tools in **econometrics** and applying them to real-life problems with **big data**. I am currently working on
  - learning-informed market design problems, including RCT design, causal inference and algorithm design for cadevar organ allocations;
