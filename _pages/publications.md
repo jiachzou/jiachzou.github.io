@@ -15,6 +15,6 @@ author_profile: true
 Working Papers
 ------
 
-* Pelger M, **Zou J**. [**Conditional inference**]().
+* Pelger M, **Zou J**. [**Conditional Inference for High-Dimensional Panel Data with Many Covariates**]().
     - 2022 California Econometrics Conference.
 
