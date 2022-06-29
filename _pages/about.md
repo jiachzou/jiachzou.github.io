@@ -10,9 +10,9 @@ redirect_from:
 ---
 I am a 5th year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, advised by [Markus Pelger](https://mpelger.people.stanford.edu/). [Kay Giesecke](https://giesecke.people.stanford.edu/) and [Peter W. Glynn](https://web.stanford.edu/~glynn/) are members of my dissertation reading committee. I am the student organizer of the [Advanced Financial Technologies Lab Doctoral Seminars](https://fintech.stanford.edu/events/doctoral-seminars). 
 
-I'm broadly interested in bulding tools in **econometrics** and applying them to real-life problems with **big data**. I am currently working on
- - learning-informed market design problems, including RCT design, causal inference and algorithm design for cadevar organ allocations;
- - statistical formulation of the academic replication crisis, particularly in high-dimensional panel data in empirical asset pricing.
+I am passionate about improving human decision making with interpretable and transparent machine learning, especially in high-stake domains. To this end, I am bulding econometrics tools and applying them to real-life problems. My current work focuses on:
+ - learning-informed market design problems, including experiment design, causal inference and algorithm design for cadevar organ allocations;
+ - statistical guardrail to address the [reproducibility crisis](https://www.nature.com/articles/533452a), particularly in inference problems on high-dimensional panel data of empirical asset pricing.
 
 You can reach me at jiacheng zou at stanford dot edu!
 
