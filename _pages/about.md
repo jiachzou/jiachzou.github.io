@@ -10,8 +10,8 @@ redirect_from:
 ---
 I am a 5th year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, advised by [Markus Pelger](https://mpelger.people.stanford.edu/). I am student organizer of the [Advanced Financial Technologies Lab Doctoral Seminars](https://fintech.stanford.edu/events/doctoral-seminars). 
 
-I'm broadly interested in bulding econometrical tools and applying them to real-life complex systems. I am currently working on
- - learning-informed market design problems, including designing experiments and proposing algorithms for cadevar organ allocations;
+I'm broadly interested in bulding tools in **econometrics** and applying them to real-life problems with **big data**. I am currently working on
+ - learning-informed market design problems, including RCT design, causal inference and algorithm design for cadevar organ allocations;
  - statistical formulation of the academic replication crisis, particularly in high-dimensional panel data in empirical asset pricing.
 
 You can reach me at jiacheng zou at stanford dot edu!
