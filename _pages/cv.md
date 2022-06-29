@@ -1,6 +1,6 @@
 ---
 layout: forward
-target: https://www.dropbox.com/s/em3ama4wr9qxhc9/GraceCVLatest.pdf?dl=0
+target: https://drive.google.com/file/d/1JpwM2UUtm8bvMU090gdG5jjB63Kvvg-g/view?usp=sharing
 redirect_from:
   - /resume
   - /cv
