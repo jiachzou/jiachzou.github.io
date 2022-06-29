@@ -8,7 +8,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 5th year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, advised by [Margaret Brandeau](https://profiles.stanford.edu/margaret-brandeau). I am grateful to be funded by the [NSF GRFP](https://www.nsfgrfp.org/). This year, I am a student co-organizer of the [Research on Algorithms and Incentives in Networks (RAIN) seminar](https://rain.stanford.edu/). 
+I am a 5th year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, advised by [Markus Pelger](https://mpelger.people.stanford.edu/). I am student organizer of the [Advanced Financial Technologies Lab Doctoral Seminars](https://fintech.stanford.edu/events/doctoral-seminars). 
 
 I'm interested in developing new methods inspired by STATS and OR to improve the quality of patient care, both at the population health level and at the clinical level.
 
