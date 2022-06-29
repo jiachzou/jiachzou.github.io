@@ -159,6 +159,8 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "default" # "air"
 
 # Markdown Processing
 kramdown:

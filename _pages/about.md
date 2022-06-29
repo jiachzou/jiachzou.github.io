@@ -10,7 +10,7 @@ redirect_from:
 ---
 I am a 5th year PhD student in [Management Science and Engineering](https://msande.stanford.edu/) at Stanford, advised by [Markus Pelger](https://mpelger.people.stanford.edu/). I am student organizer of the [Advanced Financial Technologies Lab Doctoral Seminars](https://fintech.stanford.edu/events/doctoral-seminars). 
 
-I'm interested in developing new methods inspired by STATS and OR to improve the quality of patient care, both at the population health level and at the clinical level.
+I'm broadly interested in intersection of econometrical tools and real-life applications, including learning-informed market design problems and statistical formulation of the academic replication crisis, particularly in empirical asset pricing.
 
 You can reach me at jiacheng zou at stanford dot edu!
 
