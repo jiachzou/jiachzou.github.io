@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-I have been Course Assistant for 6 Stanford classes so far, cumulatively serving _~400_ students with evaluation score _>4 out of 5_.
+I have been Course Assistant for 4 Stanford courses so far, cumulatively serving _~400_ students with evaluation score _>4 out of 5_.
 
 Stanford University School of Engineering
 ------
