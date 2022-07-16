@@ -20,8 +20,8 @@ You can reach me at jiacheng zou at stanford dot edu!
 
 Updates
 ------
-* **[August 2022]** I will attend NBER-NSF SBIES at WUSTL and present our conditional inference paper.
+* **[August 2022]** I will attend NBER-NSF SBIES at WUSTL and present our conditional inference paper (verbal).
 
-* **[May 2022]** Presented our conditional inference paper at California Econometrics Conference.
+* **[May 2022]** Present our conditional inference paper at California Econometrics Conference (poster).
 
 * **[April 2020]** Advanced to PhD Candidacy.
