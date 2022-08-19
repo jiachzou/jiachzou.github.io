@@ -16,6 +16,6 @@ Working Papers
 ------
 
 * Pelger M, **Zou J**. [**Conditional Inference for High-Dimensional Panel Data with Many Covariates**]().
-    - California Econometrics Conference, NSF-NBER SBIES
+    - NBER-NSF SBIES, California Econometrics Conference, Stanford OR Doctoral Seminar
 	- Featured in Stanford HAI [Financial Services Industry Review](https://hai.stanford.edu/industry-brief-financial-services-and-ai)
 
