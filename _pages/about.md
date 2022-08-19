@@ -8,13 +8,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-_Bio_
+__Bio__    
 
-I am a 5th year PhD student in [MS&E](https://msande.stanford.edu/) at Stanford, with PhD Minor in [Statistics](https://statistics.stanford.edu/). 
+I am a 5th year PhD student in [MS&E](https://msande.stanford.edu/) at Stanford, with PhD Minor in [Statistics](https://statistics.stanford.edu/). I am fortunate to be advised by [Markus Pelger](https://mpelger.people.stanford.edu/) on econometrics, to work with [Itai Ashlagi](https://web.stanford.edu/~iashlagi/) on mechanism design, and to have [Kay Giesecke](https://giesecke.people.stanford.edu/) and [Peter W. Glynn](https://web.stanford.edu/~glynn/) as committee members. I am the student organizer of the [Advanced Financial Technologies Lab Doctoral Seminars](https://fintech.stanford.edu/events/doctoral-seminars). 
 
-I am fortunate to be advised by [Markus Pelger](https://mpelger.people.stanford.edu/) on econometrics, to work with [Itai Ashlagi](https://web.stanford.edu/~iashlagi/) on mechanism design, and to have [Kay Giesecke](https://giesecke.people.stanford.edu/) and [Peter W. Glynn](https://web.stanford.edu/~glynn/) as committee members. I am the student organizer of the [Advanced Financial Technologies Lab Doctoral Seminars](https://fintech.stanford.edu/events/doctoral-seminars). 
-
-_Why research?_
+__Why research?__    
 
 I am passionate about improving human decision making with interpretable and transparent machine learning, especially in high-stake domains. To this end, I am building econometrics tools and applying them to real-life problems. My current work focuses on:
  - learning-informed market design problems, including experiment design, causal inference and algorithm design for better cadevaric organ allocations to curtail [wastes](https://marketdesigner.blogspot.com/2019/08/reducing-discards-of-deceased-donor.html);
@@ -22,7 +20,7 @@ I am passionate about improving human decision making with interpretable and tra
 
 _Contact_
 
-You can reach me at jiacheng zou at stanford dot edu! My office is on 2nd floor of [Huang Enginnering](https://engineering.stanford.edu/location).
+You can reach me at jiacheng zou at stanford dot edu. My office is on 2nd floor of [Huang Engineering](https://engineering.stanford.edu/location).
 
 [Link to my CV](https://drive.google.com/file/d/1JpwM2UUtm8bvMU090gdG5jjB63Kvvg-g/view?usp=sharing)
 
