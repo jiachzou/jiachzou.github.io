@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 ** Bio**
-I am a 5th year PhD student in [MS\&E](https://msande.stanford.edu/) at Stanford, with PhD Minor in [Statistics](https://statistics.stanford.edu/). 
+I am a 5th year PhD student in [MS&E](https://msande.stanford.edu/) at Stanford, with PhD Minor in [Statistics](https://statistics.stanford.edu/). 
 
 I am fortunate to be advised by [Markus Pelger](https://mpelger.people.stanford.edu/) on econometrics, to work with [Itai Ashlagi](https://web.stanford.edu/~iashlagi/) on mechanism design, and to have [Kay Giesecke](https://giesecke.people.stanford.edu/) and [Peter W. Glynn](https://web.stanford.edu/~glynn/) as members of my dissertation reading committee. I am the student organizer of the [Advanced Financial Technologies Lab Doctoral Seminars](https://fintech.stanford.edu/events/doctoral-seminars). 
 
