@@ -4,13 +4,13 @@ permalink: /
 title: ""
 excerpt: ""
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 __Bio__    
 
-I am a 5th year PhD student in [MS&E](https://msande.stanford.edu/) at Stanford, with PhD Minor in [Statistics](https://statistics.stanford.edu/). I am fortunate to be advised by [Markus Pelger](https://mpelger.people.stanford.edu/) on econometrics, to work with [Itai Ashlagi](https://web.stanford.edu/~iashlagi/) on mechanism design, and to have [Kay Giesecke](https://giesecke.people.stanford.edu/) and [Peter W. Glynn](https://web.stanford.edu/~glynn/) as committee members. I am the student organizer of the [Advanced Financial Technologies Lab Doctoral Seminars](https://fintech.stanford.edu/events/doctoral-seminars). 
+I am a 5th year PhD student in [MS&E](https://msande.stanford.edu/) at Stanford, with PhD Minor in [Statistics](https://statistics.stanford.edu/). I am fortunate to be advised by [Markus Pelger](https://mpelger.people.stanford.edu/) on econometrics, to work with [Itai Ashlagi](https://web.stanford.edu/~iashlagi/) on mechanism design, and to have [Kay Giesecke](https://giesecke.people.stanford.edu/) and [Peter W. Glynn](https://web.stanford.edu/~glynn/) as committee members. I am the student organizer of the [Advanced Financial Technologies Lab Doctoral Seminars](https://fintech.stanford.edu/events/doctoral-seminars).
 
 __Why research?__    
 
@@ -24,7 +24,7 @@ You can reach me at jiacheng zou at stanford dot edu. My office is on 2nd floor 
 
 Updates
 ------
-* **[Oct 2022]** I will attend INFORMS to talk about the Cadeveric Organ Allocation project!
+* **[Oct 2022]** I will attend INFORMS to talk about the Cadeveric Organ Allocation project on Monday 11am [see link here](https://www.abstractsonline.com/pp8/?__hstc=194041586.762f295e93961034a41049274ffef2ff.1665849846782.1665849846782.1665849846782.1&__hssc=194041586.1.1665849846782&__hsfp=1146172503&hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/presentation/4792).
 
 * **[August 2022]** Present [conditional inference paper](https://jiachzou.github.io//publications/) at NBER-NSF SBIES, and chaired session on Mixtures and Panel (verbal).
 
