@@ -28,8 +28,8 @@ Updates
 
 * **[Oct 2022]** Present the Cadeveric Organ Allocation project at INFORMS on Monday 11am [see link here](https://www.abstractsonline.com/pp8/?__hstc=194041586.762f295e93961034a41049274ffef2ff.1665849846782.1665849846782.1665849846782.1&__hssc=194041586.1.1665849846782&__hsfp=1146172503&hsCtaTracking=025ee829-9db5-4f89-95dc-637573ec15db%7Cea016d7d-8b17-4156-8c3b-c1c801f2ba1f#!/10693/presentation/4792).
 
-* **[August 2022]** Present [conditional inference paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891). at NBER-NSF SBIES: Session on Mixtures and Panel (verbal).
+* **[August 2022]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) at NBER-NSF SBIES: Session on Mixtures and Panel (verbal).
 
-* **[May 2022]** Present [conditional inference paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891). at California Econometrics Conference (poster).
+* **[May 2022]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) at California Econometrics Conference (poster).
 
 * **[April 2020]** Advanced to PhD Candidacy.
