@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jiacheng Zou"
+title                    : "Jiacheng Zou 邹 嘉成"
 title_separator          : "-"
-name                     : &name "Jiacheng Zou 邹嘉成"
-description              : &description "PhD student at Stanford University 斯坦福大学在读"
+name                     : &name "Jiacheng Zou"
+description              : &description "PhD student at Stanford University"
 url                      : https://jiachzou.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jiachzou/jiachzou.github.io"
