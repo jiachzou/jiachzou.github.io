@@ -15,10 +15,10 @@ author_profile: true
 Working Papers
 ------
 
-2. **Improving Deceased Donor Kidney Allocation with Machine Learning**. With Agarwal N, Ashlagi I, Guan G, Somaini P.
-    - NeurIPS Workshop on Learning from Time Series for Health, INFORMS
+* **Improving Deceased Donor Kidney Allocation with Machine Learning**. Co-authors: Agarwal N, Ashlagi I, Guan G, Somaini P.
+    - NeurIPS 2022 TS4H, INFORMS 2022
 
-1. **Inference for High-Dimensional Panel Data with Many Covariates** [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891). With Pelger M.
+* **Inference for High-Dimensional Panel Data with Many Covariates** [(SSRN)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891). Co-author: Pelger M.
 	- Submitted to Journal of Econometrics
-    - NBER-NSF SBIES, California Econometrics Conference, Stanford OR Doctoral Seminar
+    - 11th Western Conference on Mathematical Finance, NBER-NSF SBIES 2022, California Econometrics Conference 2022
 	- Featured in Stanford HAI [Financial Services Industry Review](https://hai.stanford.edu/industry-brief-financial-services-and-ai)
