@@ -24,7 +24,6 @@ You can reach me at jiacheng zou at stanford dot edu. My office is on 2nd floor 
 
 Updates
 ------
-Sungkyunkwan University, Seoul, South Korea
 * **[June 2023]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [SoFiE](https://sofie2023seoul.skku.edu/sofie/index.do) at Sungkyunkwan University 成均館大學校.
 
 * **[Mar 2023]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [11th WCMF](https://sites.google.com/berkeley.edu/11th-western-conference-on-mat) at UCBerkeley.
