@@ -23,8 +23,12 @@ You can reach me at jiacheng zou at stanford dot edu. My office is on 2nd floor 
 [Link to my CV](https://drive.google.com/file/d/1JpwM2UUtm8bvMU090gdG5jjB63Kvvg-g/view?usp=sharing)
 
 Updates
+
 ------
-* **[June 2023]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [NASM](https://www.econometricsociety.org/regional-activities/schedule/2023/06/22/2023-North-American-Summer-Meeting-NASM-Los-Angeles-CA#home) at UCLA.
+
+* **[June 2023]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [AMES](https://www.51xueshuo.com/#/2023ames) at Tsinghua University 清华大学.
+
+* **[June 2023]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [NASMES](https://www.econometricsociety.org/regional-activities/schedule/2023/06/22/2023-North-American-Summer-Meeting-NASM-Los-Angeles-CA#home) at UCLA.
 
 * **[Mar 2023]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [11th WCMF](https://sites.google.com/berkeley.edu/11th-western-conference-on-mat) at UC Berkeley.
 
