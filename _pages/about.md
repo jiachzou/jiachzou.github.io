@@ -30,6 +30,8 @@ Updates
 
 * **[June 2023]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [NASMES](https://www.econometricsociety.org/regional-activities/schedule/2023/06/22/2023-North-American-Summer-Meeting-NASM-Los-Angeles-CA#home) at UCLA.
 
+* **[May 2023]** Co-organized and presented at [AI in Fintech Forum](https://fintech.stanford.edu/events/conferences/ai-fintech-forum-2023).
+
 * **[Mar 2023]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [11th WCMF](https://sites.google.com/berkeley.edu/11th-western-conference-on-mat) at UC Berkeley.
 
 * **[Oct 2022]** Working paper on Cadeveric Organ Allocation project accepted as Spotlight at NeurIPS 2022 Workshop on Learning from Time Series for Health [see link here](https://timeseriesforhealth.github.io/).
