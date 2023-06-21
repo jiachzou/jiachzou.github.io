@@ -24,8 +24,8 @@ Working Papers
     - With hundreds of time series to detect unknown number of change points, our statistical inference based method is better suited than classical DP-based algorithm. On the theoratical front, we provide FWER control. In simulations, we showed 20% lift in F1 scores against leading benchmarks.
     - ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling
 
-* **Improving Deceased Donor Kidney Allocation with Machine Learning**
- Co-authors: Agarwal N, Ashlagi I, Guan G, Somaini P.
+* **Improving Deceased Donor Kidney Allocation with Machine Learning**<br>
+	Co-authors: Agarwal N, Ashlagi I, Guan G, Somaini P.<br>
 	- In this paper, we leverage geographical and temporal information to identify at-risk cadaveric kindeys. We use machine learning to construct a novel risk score as the predicted probability of hard-to-place, and performed extensive analysis on the medical reasons why the algorithm makes mistakes.
     - NeurIPS 2022 TS4H, INFORMS 2022
 
