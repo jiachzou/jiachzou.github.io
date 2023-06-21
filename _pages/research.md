@@ -16,17 +16,17 @@ Working Papers
 ------
 
 * **Inference for Large-Dimensional Panel Data with Many Covariates** [(Paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) [(Code)](https://github.com/jiachzou/panel_multiple_testing) <br>
-    Co-author: Pelger M. <br>
-    - We propose Panel Multiple Testing that allows us to select covariates that explain a large cross-section with false discovery control. Empirically, we select sparse risk factors from a factor zoo of 114, to explain 243 doubly-sorted portfolio excess returns. 
+    Co-author: Markus Pelger <br>
+    - We propose Panel Multiple Testing that allows us to select covariates that explain a large cross-section with false discovery control. In our empirical asset pricing study, we select sparse risk factors from a factor zoo of 114, to explain 243 doubly-sorted portfolio excess returns. 
     - NASMES 2023, AMES 2023, INFORMS 2023, 11th Western Conference on Mathematical Finance, NBER-NSF SBIES 2022, California Econometrics Conference 2022, Stanford HAI [Financial Services Industry Review](https://hai.stanford.edu/industry-brief-financial-services-and-ai)
 
 * **Large Dimensional Change Point Detection with FWER Control as Automatic Stopping** [(Poster)](https://drive.google.com/file/d/14xcom92GMaCcFZpjLXblOc4K5FlCr6rP/view?usp=sharing) [(Code)](https://github.com/yfan7/panel_CPD) <br>
-    Co-authors: Fan Y., Pelger M. <br>
+    Co-authors: Yang Fan, Markus Pelger <br>
     - With hundreds of time series to detect unknown number of change points, our statistical inference based method is better suited than classical DP-based algorithm. We provide FWER control theory. In simulations, we showed 20% lift in F1 scores against leading benchmarks.
     - ICML 2023 Workshop on Structured Probabilistic Inference & Generative Modeling
 
 * **Improving Deceased Donor Kidney Allocation with Machine Learning**<br>
-	Co-authors: Agarwal N, Ashlagi I, Guan G, Somaini P.<br>
+	Co-authors: Nikhil Agarwal, Itai Ashlagi, Grace Guan, Paulo Somaini<br>
 	- In this paper, we leverage geographical and temporal information to identify at-risk cadaveric kindeys. We use machine learning to construct a novel risk score as the predicted probability of hard-to-place, and performed extensive analysis on the medical reasons why the algorithm makes mistakes.
     - NeurIPS 2022 TS4H, INFORMS 2022
 
@@ -34,5 +34,5 @@ Working Papers
 Work in Progress
 ------
 * **Learning Bipartite Relationship Graph with Applications for National Kidney Allocation Policy Evaluations** <br>
-    Co-authors: Ugander J., Ashlagi I. <br>
+    Co-authors: Johan Ugander, Itai Ashlagi <br>
     - We propose a principled learning method that identifies relationship graph from longitudinal observation of nodes interactions. The learned graph has Type I error control on falsely discovered edge, achieved through Panel Multiple Testing and allows arbitrary covariance of dyadic behavior. We study the national kidney allocation system by building decision models for >70 transplantation hospitals.
