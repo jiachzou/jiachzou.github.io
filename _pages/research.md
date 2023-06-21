@@ -22,7 +22,7 @@ Working Papers
 
 * **Large Dimensional Change Point Detection with FWER Control as Automatic Stopping** [(Poster)](https://drive.google.com/file/d/14xcom92GMaCcFZpjLXblOc4K5FlCr6rP/view?usp=sharing) [(Code)](https://github.com/yfan7/panel_CPD) <br>
     Co-authors: Yang Fan, Markus Pelger <br>
-    - With hundreds of time series to detect unknown number of change points, our statistical inference based method is better suited than classical DP-based algorithm. We provide FWER control theory. In simulations, we showed 20% lift in F1 scores against leading benchmarks.
+    - With hundreds of time series to detect unknown number of change points, our statistical inference based method is better suited than classical DP-based algorithm due to its conscientious trade-off of Type I vs Type II error. We provide FWER control theory. In simulations, we showed 20% lift in F1 scores against leading benchmarks.
     - ICML 2023 SPIGM
 
 * **Improving Deceased Donor Kidney Allocation with Machine Learning**<br>
