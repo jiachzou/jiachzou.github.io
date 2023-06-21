@@ -22,12 +22,12 @@ Working Papers
 
 * **Large Dimensional Change Point Detection with FWER Control as Automatic Stopping** [(Poster)](https://drive.google.com/file/d/14xcom92GMaCcFZpjLXblOc4K5FlCr6rP/view?usp=sharing) [(Code)](https://github.com/yfan7/panel_CPD) <br>
     Co-authors: Yang Fan, Markus Pelger <br>
-    - With hundreds of time series to detect unknown number of change points, our statistical inference based method is better suited than classical DP-based algorithm due to its conscientious trade-off of Type I vs Type II error. We provide FWER control theory. In simulations, we showed 20% lift in F1 scores against leading benchmarks.
+    - With hundreds of time series and unknown number of change points to detect, our inference-based method is better suited than the classical DP-based algorithm due to its conscientious trade-off of Type I vs Type II error. We provide FWER control theory. In simulations, we showed 20% lift in F1 scores against leading benchmarks.
     - ICML 2023 SPIGM
 
 * **Improving Deceased Donor Kidney Allocation with Machine Learning**<br>
 	Co-authors: Nikhil Agarwal, Itai Ashlagi, Grace Guan, Paulo Somaini<br>
-	- In this paper, we leverage geographical and temporal information to identify at-risk cadaveric kindeys. We use machine learning to construct a novel risk score as the predicted probability of hard-to-place, and performed extensive analysis on the medical reasons why the algorithm makes mistakes.
+	- In this paper, we leverage geographical and temporal information to identify at-risk cadaveric kidneys. We use machine learning to construct a novel risk score as the predicted probability of hard-to-place, and perform extensive analysis on the medical reasons why the algorithm makes mistakes.
     - NeurIPS 2022 TS4H, INFORMS 2022
 
 
@@ -35,4 +35,4 @@ Work in Progress
 ------
 * **Learning Bipartite Relationship Graph with Applications for National Kidney Allocation Policy Evaluations** <br>
     Co-authors: Johan Ugander, Itai Ashlagi <br>
-    - We propose a principled learning method that identifies relationship graph from longitudinal observation of nodes interactions. The learned graph has Type I error control on falsely discovered edge, achieved through Panel Multiple Testing and allows arbitrary covariance of dyadic behavior. We study the national kidney allocation system by building decision models for >70 transplantation hospitals.
+    - We propose a novel learning framework that identifies relationship graphs from longitudinal observation of node interactions. The learned graph has Type I error control on falsely discovered edges, achieved through Panel Multiple Testing and allows arbitrary covariance of dyadic behavior. We study the national kidney allocation system by building decision models for >70 transplantation hospitals.
