@@ -35,4 +35,4 @@ Work in Progress
 ------
 * **Learning Bipartite Relationship Graph with Applications for National Kidney Allocation Policy Evaluations** <br>
     Co-authors: Johan Ugander, Itai Ashlagi <br>
-    - We propose a novel learning framework that identifies relationship graphs from longitudinal observation of node interactions. The learned graph has Type I error control on falsely discovered edges, achieved through Panel Multiple Testing and allows arbitrary covariance of dyadic behavior. We study the national kidney allocation system by building decision models for >70 transplantation hospitals.
+    - We propose a novel learning framework that identifies relationship graphs from longitudinal observation of node interactions. The learned graph has Type I error control on falsely discovered edges, achieved through Panel Multiple Testing and allows arbitrary covariance of dyadic behavior. We study the national kidney allocation system by building decision models for >70 transplantation hospitals. Through a bootstrapping exercise, we test whether the latent relationship graph is static year-over-year.
