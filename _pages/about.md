@@ -26,9 +26,9 @@ Updates
 
 ------
 
-* **[July 2023]** [Change point detection](https://drive.google.com/file/d/15SotyMqpWBUTrwaCpzNGron2F4uz1wdL/view?usp=sharing) accepted in [ICML 2023 SPIGM](https://spigmworkshop.github.io/) at Hawai'i.
+* **[July 2023]** [Change point detection](https://drive.google.com/file/d/15SotyMqpWBUTrwaCpzNGron2F4uz1wdL/view?usp=sharing) accepted in [ICML 2023 SPIGM](https://spigmworkshop.github.io/) and [SCIS](https://sites.google.com/view/scis-workshop-23/home?authuser=0) at Hawai'i.
 
-* **[June 2023]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [AMES](https://www.51xueshuo.com/#/2023ames) at Tsinghua University 清华大学.
+* **[June 2023]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [AMES](https://www.51xueshuo.com/#/2023ames) at [SEM Tsinghua University 清华大学经管学院](https://www.sem.tsinghua.edu.cn/en/).
 
 * **[June 2023]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [NASMES](https://www.econometricsociety.org/regional-activities/schedule/2023/06/22/2023-North-American-Summer-Meeting-NASM-Los-Angeles-CA#home) at UCLA.
 
