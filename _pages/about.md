@@ -42,7 +42,7 @@ Updates
 
 * **[August 2022]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) at NBER-NSF SBIES: Session on Mixtures and Panel.
 
-* **[June 2022]** Data Science Internship at Meta (previously Facebook), working on sentiment analysis and ads recommendation.
+* **[June 2022]** Internship at Meta (previously Facebook), working on sentiment analysis and ads recommendation.
 
 * **[May 2022]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) at California Econometrics Conference.
 
