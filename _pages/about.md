@@ -20,10 +20,6 @@ I am passionate about improving _data-driven decision making_. I design methods 
  - learning-informed market design problems, including experiment design, causal inference and algorithm design for better cadevaric organ allocations to curtail [wastes](https://marketdesigner.blogspot.com/2019/08/reducing-discards-of-deceased-donor.html);
  - statistical guardrail for the [reproducibility crisis](https://www.nature.com/articles/533452a), particularly in inference problems on high-dimensional panel data of empirical asset pricing.
 
-You can reach me at jiacheng zou at stanford dot edu. My office is on 2nd floor of [Huang Engineering](https://engineering.stanford.edu/location).
-
-[Link to my CV](https://drive.google.com/file/d/1JpwM2UUtm8bvMU090gdG5jjB63Kvvg-g/view?usp=sharing)
-
 Updates
 
 ------
