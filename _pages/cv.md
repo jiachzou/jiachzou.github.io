@@ -6,5 +6,5 @@ redirect_from:
   - /cv
 ---
 
-<p align="center"><iframe src="https://drive.google.com/file/d/1JpwM2UUtm8bvMU090gdG5jjB63Kvvg-g/preview" width="640" height="800" allow="autoplay"></iframe></p>
+<p align="center"><iframe src="https://drive.google.com/file/d/1JpwM2UUtm8bvMU090gdG5jjB63Kvvg-g/preview" frameborder="0" allowfullscreen></iframe></p>
 
