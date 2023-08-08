@@ -10,11 +10,13 @@ redirect_from:
 ---
 __Bio__    
 
-I am a 5th year PhD student in [MS&E](https://msande.stanford.edu/) at Stanford, with PhD Minor in [Statistics](https://statistics.stanford.edu/). I am fortunate to be advised by [Markus Pelger](https://mpelger.people.stanford.edu/) on econometrics, to work with [Itai Ashlagi](https://web.stanford.edu/~iashlagi/) on mechanism design, and to have [Kay Giesecke](https://giesecke.people.stanford.edu/) and [Peter W. Glynn](https://web.stanford.edu/~glynn/) as committee members. I am the student organizer of the [Advanced Financial Technologies Lab Doctoral Seminars](https://fintech.stanford.edu/events/doctoral-seminars).
+I am a final year PhD student in [MS&E](https://msande.stanford.edu/) at Stanford, with PhD Minor in [Statistics](https://statistics.stanford.edu/). I am fortunate to be advised by [Markus Pelger](https://mpelger.people.stanford.edu/) on econometrics, to work with [Itai Ashlagi](https://web.stanford.edu/~iashlagi/) on mechanism design, and to have [Kay Giesecke](https://giesecke.people.stanford.edu/) and [Peter W. Glynn](https://web.stanford.edu/~glynn/) as committee members. I am the student organizer of the 
+** I am on the 2023-2024 academic job market.**
+
 
 __Why research?__    
 
-I am passionate about improving human decision making with interpretable and transparent machine learning, especially in high-stake domains. To this end, I am building econometrics tools and applying them to real-life problems. My current work focuses on:
+I am passionate about improving _data-driven decision making_. I design methods for interpretable machine learning, design experiments and apply causal inference. My current work focuses on:
  - learning-informed market design problems, including experiment design, causal inference and algorithm design for better cadevaric organ allocations to curtail [wastes](https://marketdesigner.blogspot.com/2019/08/reducing-discards-of-deceased-donor.html);
  - statistical guardrail for the [reproducibility crisis](https://www.nature.com/articles/533452a), particularly in inference problems on high-dimensional panel data of empirical asset pricing.
 
