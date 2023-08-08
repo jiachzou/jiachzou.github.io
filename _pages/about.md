@@ -19,12 +19,12 @@ __I am on the 2023-2024 academic job market.__
 __Why research?__    
 
 I am passionate about improving _data-driven decision making_. I design methods for interpretable machine learning, design experiments and apply causal inference. My current work focuses on:
- - learning-informed market design problems, including experiment design, causal inference and algorithm design for better cadevaric organ allocations to curtail [wastes](https://marketdesigner.blogspot.com/2019/08/reducing-discards-of-deceased-donor.html);
- - statistical guardrail for the [reproducibility crisis](https://www.nature.com/articles/533452a), particularly in inference problems on high-dimensional panel data of empirical asset pricing.
-
-__Updates__
+ - learning-informed market design problems in improving healthcare. This includes a retro experiment to test how AI can help reduce [non-utilized donated kidneys](https://marketdesigner.blogspot.com/2019/08/reducing-discards-of-deceased-donor.html);
+ - statistical guardrail for the [reproducibility crisis](https://www.nature.com/articles/533452a), particularly in inference problems on high-dimensional panel data. I apply the methods in empirical asset pricing, and network analysis.
 
 ------
+
+__Updates__
 
 * **[July 2023]** [Change point detection](https://drive.google.com/file/d/15SotyMqpWBUTrwaCpzNGron2F4uz1wdL/view?usp=sharing) accepted in [ICML 2023 SPIGM](https://spigmworkshop.github.io/) and [SCIS](https://sites.google.com/view/scis-workshop-23/home?authuser=0) at Hawai'i.
 
