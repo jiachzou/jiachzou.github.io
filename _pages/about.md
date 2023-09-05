@@ -21,11 +21,12 @@ __I am on the 2023-2024 academic job market.__
 
 __Research Mission__    
 
-I am passionate about improving _human-centered decision making_ with assistance of AI. I design interpretable inference tools, design experiments and apply causal inference. The goal of my research is bridge the current gap between using machine learning tools for prediction, and human decision-making in high-stake domains.
+I am passionate about improving _human-centered decision making_ with assistance of AI. I develop interpretable inference tools, design experiments and apply causal inference. 
+My research goal is to bridge the current gap between using machine learning tools for prediction, and human decision-making in high-stake domains.
 
 My current work focuses on:
- - improving AI usage in healthcare. This includes a retro experiment to test how AI can help reduce [non-utilized donated kidneys](https://marketdesigner.blogspot.com/2019/08/reducing-discards-of-deceased-donor.html). 
- - testing irregular statistical problems, induced by big data. In particular, I work on multiple testing methods against [p-hacking](https://www.nature.com/articles/533452a), when the data and hypothesis collection process itself is guided by algorithms.
+ - improving AI usage in healthcare. This includes a retrospective experiment to test how AI can help reduce [non-utilized donated kidneys](https://marketdesigner.blogspot.com/2019/08/reducing-discards-of-deceased-donor.html). 
+ - testing irregular statistical problems, induced by big data and AI. Specifically, I develop multiple testing methods against [p-hacking](https://www.nature.com/articles/533452a), when the data and hypothesis collection process itself can involve AI.
 
 ------
 
