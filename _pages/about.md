@@ -11,8 +11,7 @@ redirect_from:
 __Bio__    
 
 I am a final year PhD student in [MS&E](https://msande.stanford.edu/) at Stanford, with PhD Minor in [Statistics](https://statistics.stanford.edu/). 
-I am fortunate to be advised by [Markus Pelger](https://mpelger.people.stanford.edu/) on econometrics, to work with [Itai Ashlagi](https://web.stanford.edu/~iashlagi/) on mechanism design, 
-and to have [Kay Giesecke](https://giesecke.people.stanford.edu/) and [Peter W. Glynn](https://web.stanford.edu/~glynn/) as committee members. 
+I am fortunate to be advised by [Markus Pelger](https://mpelger.people.stanford.edu/), co-advised by [Itai Ashlagi](https://web.stanford.edu/~iashlagi/),  and to have [Kay Giesecke](https://giesecke.people.stanford.edu/) and [Peter W. Glynn](https://web.stanford.edu/~glynn/) as committee members. 
 I am a member of the [Advanced Financial Technologies Lab](https://fintech.stanford.edu/), and I organize the lab's [Doctoral Seminar](https://fintech.stanford.edu/events/doctoral-seminars). <br>
 
 __I am on the 2023-2024 academic job market.__
