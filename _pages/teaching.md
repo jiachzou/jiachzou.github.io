@@ -16,5 +16,5 @@ Stanford University School of Engineering
 
 Stanford Center for Professional Development
 ------
-* Saudi Industrial Development Fund Credit Analyst Mini-MBA Training Program _2019, 2020, 2021_
+* Saudi Industrial Development Fund Credit Analyst Mini-MBA professional education program _2019, 2020, 2021_
 
