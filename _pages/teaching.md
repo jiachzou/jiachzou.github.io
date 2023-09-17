@@ -7,7 +7,7 @@ author_profile: true
 
 I have been Teaching assistant for following Stanford courses so far, serving _~400_ students with evaluation score _>4 out of 5_.
 
-Stanford University, Management Science & Engineering (3=PhD, 2=MS, 1=UG)
+Stanford University, Management Science & Engineering (2=Masters' level, 1=Undergraduate level)
 
 ------
 * MS&E 245A, Investment Science (Mortgages, Bonds, CAPM & FF3) _2020 (Twice), 2021_
