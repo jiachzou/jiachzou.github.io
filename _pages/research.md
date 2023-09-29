@@ -17,7 +17,7 @@ I work on ML aided decision making with 2 streams of research:<br>
 ------
 
 * **Inference for Large-Dimensional Panel Data with Many Covariates** [(Paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) [(Code)](https://github.com/jiachzou/panel_multiple_testing) <br>
-	<span style="background-color: gray; color: white; padding: 2px 5px;"> Statistical learning of large panel data</span> <br> Co-author: Markus Pelger <br>
+	<span style="background-color: gray; color: white; padding: 2px 5px;"> Statistical learning of large panel data</span> Co-author: Markus Pelger <br>
     - We propose Panel Multiple Testing that allows us to select covariates that explain a large cross-section with false discovery control. In our empirical asset pricing study, we select sparse risk factors from a factor zoo of 114, to explain 243 doubly-sorted portfolio excess returns. 
     - NASMES 2023, AMES 2023, INFORMS 2023, 11th Western Conference on Mathematical Finance, NBER-NSF SBIES 2022, California Econometrics Conference 2022, Stanford HAI [Financial Services Industry Review](https://hai.stanford.edu/industry-brief-financial-services-and-ai)
 
