@@ -12,7 +12,8 @@ author_profile: true
 {% include base_path %}
 
 
-Working Papers
+(I) Statistical learning of large panel data
+
 ------
 
 * **Inference for Large-Dimensional Panel Data with Many Covariates** [(Paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) [(Code)](https://github.com/jiachzou/panel_multiple_testing) <br>
@@ -25,14 +26,16 @@ Working Papers
     - With hundreds of time series and unknown number of change points to detect, our inference-based method is better suited than the classical DP-based algorithm due to its conscientious trade-off of Type I vs Type II error. We provide FWER control theory. In simulations, we showed 20% lift in F1 scores against leading benchmarks.
     - ICML 2023 [SPIGM](https://spigmworkshop.github.io/), [SCIS](https://sites.google.com/view/scis-workshop-23)
 
+
+(II) Improving healthcare with ML
+
+------
+* **Learning Bipartite Relationship Graph with Applications for National Kidney Allocation Policy Evaluations** <br>
+    Co-authors: Johan Ugander, Itai Ashlagi <br>
+    - Does acceptance occur due to supply-demand relationship, beyond consideration of quality on _two-sided platforms_?  We use the potential outcome framework from causal inference to define dyadic relationships. Leveraging repeated observations of interactions in the platform to construct supplier fixed effects, we propose a multiple testing method to adjust for platform size and control for false discoveries. We study the US deceased donor kidney allocation system by analyzing $>300,000$ deceased donor acceptance decisions from $65$ transplant centers. The learned relationship graph between Transplant Centers and Organ Procurers provides new information that can help explain the acceptance rate differences across the country, even after we use machine learning to control for medical, logistical, and patient priority contexts.
+
+
 * **Improving Deceased Donor Kidney Allocation with Machine Learning**<br>
 	Co-authors: Nikhil Agarwal, Itai Ashlagi, Grace Guan, Paulo Somaini<br>
 	- In this paper, we leverage geographical and temporal information to identify at-risk cadaveric kidneys. We use machine learning to construct a novel risk score as the predicted probability of hard-to-place, and perform extensive analysis on the medical reasons why the algorithm makes mistakes.
     - NeurIPS 2022 TS4H, INFORMS 2022
-
-
-Work in Progress
-------
-* **Learning Bipartite Relationship Graph with Applications for National Kidney Allocation Policy Evaluations** <br>
-    Co-authors: Johan Ugander, Itai Ashlagi <br>
-    - We propose a novel learning framework that identifies relationship graphs from longitudinal observation of node interactions. The learned graph has Type I error control on falsely discovered edges, achieved through Panel Multiple Testing and allows arbitrary covariance of dyadic behavior. We study the national kidney allocation system by building decision models for >70 transplantation hospitals. Through a bootstrapping exercise, we test whether the latent relationship graph is static year-over-year.
