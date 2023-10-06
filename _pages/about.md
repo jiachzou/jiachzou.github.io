@@ -16,6 +16,8 @@ I am a member of the [Advanced Financial Technologies Lab](https://fintech.stanf
 
 __I am on the 2023-2024 academic job market.__
 
+__I am available for meetings at INFORMS from Oct 15 to Oct 17. My presentation is [Session SE73 (4–5:15PM MST, Oct 15)](https://events.rdmobile.com/Sessions/Details/1911002).__
+
 ------
 
 __Research Mission__    
@@ -30,6 +32,8 @@ My current work focuses on:
 ------
 
 __Updates__
+
+* **[Oct 2023]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [INFORMS Session SE73, October 15 (Sun)](https://events.rdmobile.com/Sessions/Details/1911002) at Pheonix, AZ.
 
 * **[July 2023]** [Change point detection](https://drive.google.com/file/d/15SotyMqpWBUTrwaCpzNGron2F4uz1wdL/view?usp=sharing) accepted in [ICML 2023 SPIGM](https://spigmworkshop.github.io/) and [SCIS](https://sites.google.com/view/scis-workshop-23/home?authuser=0) at Hawai'i.
 
