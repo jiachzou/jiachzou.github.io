@@ -11,7 +11,7 @@ author_profile: true
 
 {% include base_path %}
 
-I work on ML aided decision making with 2 streams of research:<br>
+I work on machine learning (ML) aided decision making with 2 streams of research:<br>
 <span style="background-color: rgb(140, 21, 21);  color: white; padding: 2px 5px;">(I) Statistical learning of large panel data</span> and <span style="background-color: #228B22; color: white; padding: 2px 5px;">(II) Improving healthcare with ML</span>
 
 Roadmap: Paper 1 is foundational and identifies a new class of multiple testing problems in <span style="background-color: rgb(140, 21, 21);  color: white; padding: 2px 5px;"> Statistical learning of large panel data</span>. Papers 2 and 3 are extensions and applications of Paper 1.
@@ -25,7 +25,7 @@ Roadmap: Paper 1 is foundational and identifies a new class of multiple testing 
 
 2. **Learning Bipartite Relationship Graph with Applications for National Kidney Allocation Policy Evaluations** <br>
     <span style="background-color: rgb(140, 21, 21);  color: white; padding: 2px 5px;"> Statistical learning of large panel data</span> <span style="background-color: #228B22; color: white; padding: 2px 5px;"> Improving healthcare with ML</span> Co-authors: Johan Ugander, Itai Ashlagi <br>
-    - Does exchange occur due to supply-demand relationship, beyond consideration of quality on _two-sided platforms_?  We use the potential outcome framework from causal inference to define dyadic relationships. Leveraging repeated observations of interactions in the platform to construct supplier fixed effects, we propose a multiple testing method to adjust for platform size and control for false discoveries. We study the US deceased donor kidney allocation system by analyzing >300,000 deceased donor acceptance decisions from 65 Transplant Centers. The learned relationship graph between Transplant Centers and Organ Procurers provides new information that can help explain the acceptance rate differences across the country, even after we use machine learning to control for medical, logistical, and patient priority contexts. <br>
+    - Does exchange occur due to supply-demand relationship, beyond consideration of quality on _two-sided platforms_?  We use the potential outcome framework from causal inference to define dyadic relationships. Leveraging repeated observations of interactions in the platform to construct supplier fixed effects, we propose a multiple testing method to adjust for platform size and control for false discoveries. We study the US deceased donor kidney allocation system by analyzing acceptance decisions from 65 Transplant Centers. The learned relationship graph between Transplant Centers and Organ Procurers provides new information that can help explain the acceptance rate differences across the country, even after we use machine learning to control for medical, logistical, and patient priority contexts. <br>
 	 (Draft available upon request)
 
 3. **Large Dimensional Change Point Detection with FWER Control as Automatic Stopping** [(Paper)](https://drive.google.com/file/d/15SotyMqpWBUTrwaCpzNGron2F4uz1wdL/view?usp=sharing) [(Poster)](https://drive.google.com/file/d/14xcom92GMaCcFZpjLXblOc4K5FlCr6rP/view?usp=sharing) [(Code)](https://github.com/yfan7/panel_CPD) <br>
