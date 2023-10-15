@@ -20,13 +20,15 @@ __I am available for meetings at INFORMS 2023 Annual Meeting from Oct 15 to Oct 
 
 ------
 
-__Research Mission__    
+__Research Brief__    
 
 I develop statistical methods for inference in large dimensional data sets to make better decisions. My domain expertise is in healthcare and financial economics, which informs my methodological work. 
 
 - In the first stream of my research I identify [a new class of multiple testing problems in panel data learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) , which is broadly applicable. In a sequence of follow-up papers I use this framework for latent graphs  learning and change point detection in time-series. 
 
 - In my second stream, I tailor machine learning methods and design experiments for healthcare applications, specifically I am focusing on driving down [inefficiencies in deceased donor organ allocation](https://marketdesigner.blogspot.com/2019/08/reducing-discards-of-deceased-donor.html) with machine learning tools. 
+
+See more in [my research tab](https://jiachzou.github.io//research/).
 
 ------
 
