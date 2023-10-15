@@ -22,12 +22,11 @@ __I am available for meetings at INFORMS 2023 Annual Meeting from Oct 15 to Oct 
 
 __Research Mission__    
 
-I am passionate about improving _human-centered decision making_ with assistance of AI. I develop interpretable inference tools, design experiments and apply causal inference. 
-My research goal is to bridge the current gap between using machine learning tools for prediction, and human decision-making in high-stake domains.
+I develop statistical methods for inference in large dimensional data sets to make better decisions. My domain expertise is in healthcare and financial economics, which informs my methodological work. 
 
-My current work focuses on:
- - improving AI usage in healthcare. This includes a retrospective experiment to test how AI can help reduce [non-utilized donated kidneys](https://marketdesigner.blogspot.com/2019/08/reducing-discards-of-deceased-donor.html). 
- - testing irregular statistical problems, induced by big data and AI. Specifically, I develop multiple testing methods against [p-hacking](https://www.nature.com/articles/533452a), when the data and hypothesis collection process itself can involve AI.
+- In the first stream of my research I identify [a new class of multiple testing problems in panel data learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) , which is broadly applicable. In a sequence of follow-up papers I use this framework for latent graphs  learning and change point detection in time-series. 
+
+- In my second stream, I tailor machine learning methods and design experiments for healthcare applications, specifically I am focusing on driving down [inefficiencies in deceased donor organ allocation](https://marketdesigner.blogspot.com/2019/08/reducing-discards-of-deceased-donor.html) with machine learning tools. 
 
 ------
 
