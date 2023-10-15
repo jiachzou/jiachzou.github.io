@@ -31,7 +31,7 @@ Roadmap: Paper 1 is foundational and identifies a new class of multiple testing 
 3. **Large Dimensional Change Point Detection with FWER Control as Automatic Stopping** [(Paper)](https://drive.google.com/file/d/15SotyMqpWBUTrwaCpzNGron2F4uz1wdL/view?usp=sharing) [(Poster)](https://drive.google.com/file/d/14xcom92GMaCcFZpjLXblOc4K5FlCr6rP/view?usp=sharing) [(Code)](https://github.com/yfan7/panel_CPD) <br>
 	<span style="background-color: rgb(140, 21, 21);  color: white; padding: 2px 5px;"> Statistical learning of large panel data</span> Co-authors: Yang Fan, Markus Pelger <br>
     - With hundreds of time series and unknown number of change points to detect, our inference-based method is better suited than the classical DP-based algorithm due to its conscientious trade-off of Type I vs Type II error. We provide FWER control theory. In simulations, we showed 20% lift in F1 scores against leading benchmarks.
-    - ICML 2023 [SPIGM](https://spigmworkshop.github.io/), [SCIS](https://sites.google.com/view/scis-workshop-23)
+    - ICML 2023 [SPIGM](https://spigmworkshop.github.io/), [SCIS](https://sites.google.com/view/scis-workshop-23/accepted-papers?authuser=0)
 
 4. **Improving Deceased Donor Kidney Allocation with Machine Learning**<br>
     <span style="background-color: #228B22; color: white; padding: 2px 5px;"> Improving healthcare with ML</span> Co-authors: Nikhil Agarwal, Itai Ashlagi, Grace Guan, Paulo Somaini<br>
