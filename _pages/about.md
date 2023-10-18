@@ -16,7 +16,6 @@ I am a member of the [Advanced Financial Technologies Lab](https://fintech.stanf
 
 __I am on the 2023-2024 academic job market.__
 
-__I am available for meetings at INFORMS 2023 Annual Meeting from Oct 15 to Oct 18. My presentation is in Session SE73 (4–5:15PM MST, Oct 15 at CC-West 106B).__
 
 ------
 
