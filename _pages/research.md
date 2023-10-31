@@ -16,7 +16,7 @@ author_profile: true
 I work on machine learning (ML) aided decision making with 2 streams of research:<br>
 <span class="tag-panel-data" style="background-color:  #6FC3FF;color: black; padding: 2px 5px;">(I) Statistical learning of large panel data</span> and <span class="tag-healthcare" style="background-color:  #006CB8; color: white; padding: 2px 5px;">(II) Improving healthcare with ML</span>
 
-Roadmap: Paper 1 is foundational and identifies a new class of multiple testing problems in <span class="tag-panel-data" style="background-color:  #6FC3FF;  color: white; padding: 2px 5px;">(I) Statistical learning of large panel data</span>. Papers 2 and 3 are extensions and applications of Paper 1.
+Roadmap for <span class="tag-panel-data" style="background-color:  #6FC3FF; color: black; padding: 2px 5px;">(I) Statistical learning of large panel data</span>: paper 1 identifies a new class of multiple testing problems and proposes general methods; papers 2 and 3 adapt the methods to additional settings.
 
 ------
 
