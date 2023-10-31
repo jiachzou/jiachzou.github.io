@@ -1,0 +1,9 @@
+@keyframes highlight {
+    0% { opacity: 1; }
+    50% { opacity: 0.5; }
+    100% { opacity: 1; }
+}
+
+.tag-panel-data:hover, .tag-healthcare:hover {
+    animation: highlight 1s infinite;
+}
