@@ -7,3 +7,7 @@
 .tag-panel-data:hover, .tag-healthcare:hover {
     animation: highlight 1s infinite;
 }
+
+.tag-panel-data, .tag-healthcare {
+    border-radius: 5px; /* Adjust this value as needed */
+}
