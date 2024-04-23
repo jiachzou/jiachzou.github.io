@@ -11,19 +11,16 @@ redirect_from:
 __Bio__    
 
 I am a final year PhD student in [MS&E](https://msande.stanford.edu/) at Stanford, with PhD Minor in [Statistics](https://statistics.stanford.edu/). 
-I am fortunate to be advised by [Markus Pelger](https://mpelger.people.stanford.edu/), co-advised by [Itai Ashlagi](https://web.stanford.edu/~iashlagi/),  and to have [Kay Giesecke](https://giesecke.people.stanford.edu/) and [Peter W. Glynn](https://web.stanford.edu/~glynn/) as committee members. 
-I am a member of the [Advanced Financial Technologies Lab](https://fintech.stanford.edu/), and I organize the lab's [Doctoral Seminar](https://fintech.stanford.edu/events/doctoral-seminars). <br>
+I am fortunate to be advised by [Markus Pelger](https://mpelger.people.stanford.edu/). As a member of the [Advanced Financial Technologies Lab](https://fintech.stanford.edu/), I organize the lab's [Doctoral Seminar](https://fintech.stanford.edu/events/doctoral-seminars). <br>
 
 
 ------
 
 __Research Brief__    
 
-I develop statistical methods for inference in large dimensional data sets to make better decisions. My domain knowledge of healthcare and financial economics problems informs my methodological work. 
+I develop statistical methods for inference in large dimensional data sets to make better decisions. My domain knowledge of financial economics problems informs my methodological work. 
 
-- In the first stream of my research, I identify [a new class of multiple testing problems in panel data learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891), which is broadly applicable. In a sequence of follow-up papers, I use this framework for latent graphs  learning and change point detection in time-series. 
-
-- In my second stream, I tailor machine learning methods and design experiments for healthcare applications. Specifically, I am focusing on driving down [inefficiencies in deceased donor organ allocation](https://marketdesigner.blogspot.com/2019/08/reducing-discards-of-deceased-donor.html) with machine learning tools. 
+I identify [a new class of multiple testing problems in panel data learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891), which is broadly applicable. In a sequence of follow-up papers, I use this framework for latent graphs learning and change point detection in time-series. 
 
 See more in [my research tab](https://jiachzou.github.io//research/).
 
