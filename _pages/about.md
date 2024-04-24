@@ -28,6 +28,11 @@ See more in [my research tab](https://jiachzou.github.io//research/).
 
 __Updates__
 
+
+* **[August 2024]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [Econometric Society Interdisciplinary Frontiers Economics and AI+ML Meeting](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting#logistics) at Cornell.
+
+
+
 * **[May 2024]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [2024 Hong Kong Conference for Fintech, AI, and Big Data in Business](https://cityuhkfintech.com/) at City University of Hong Kong.
 
 * **[Oct 2023]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [INFORMS Session SE73, October 15 (Sun)](https://events.rdmobile.com/Sessions/Details/1911002) in Pheonix, AZ.
