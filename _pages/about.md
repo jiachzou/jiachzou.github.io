@@ -12,7 +12,7 @@ __Bio__
 
 I am a final year PhD student in [MS&E](https://msande.stanford.edu/) at Stanford, with PhD Minor in [Statistics](https://statistics.stanford.edu/). 
 I am fortunate to be advised by [Markus Pelger](https://mpelger.people.stanford.edu/). As a member of the [Advanced Financial Technologies Lab](https://fintech.stanford.edu/), I organize the lab's [Doctoral Seminar](https://fintech.stanford.edu/events/doctoral-seminars). 
-Starting September 2024, I will join [Columbia IEOR](https://ieor.columbia.edu/) as postdoctoral research scientist, hosted by [Agostino Capponi](https://www.columbia.edu/~ac3827/). <br>
+Starting in late 2024, I will join [Columbia IEOR](https://ieor.columbia.edu/) as a postdoctoral research scientist hosted by [Agostino Capponi](https://www.columbia.edu/~ac3827/). <br>
 
 
 ------
