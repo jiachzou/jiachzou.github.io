@@ -17,7 +17,7 @@ Starting in late 2024, I will join [Columbia IEOR](https://ieor.columbia.edu/) a
 
 ------
 
-__Research Brief__    
+__Research brief__    
 
 I develop statistical methods for inference in large dimensional data sets to make better decisions. My domain knowledge of financial economics problems informs my methodological work. 
 
