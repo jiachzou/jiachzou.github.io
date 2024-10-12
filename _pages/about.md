@@ -29,7 +29,10 @@ See more in [my research tab](https://jiachzou.github.io//research/).
 
 __Updates__
 
+* **[Oct 2024]** Present supply chain asset pricing at [INFORMS Session on Financial Analytics and Technology](https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/EventDetail.aspx?evt=853) in Seattle, WA.
+
+* **[Sept 2024]** Granted the PhD degree.
+
 * **[August 2024]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [Econometric Society Interdisciplinary Frontiers Economics and AI+ML Meeting](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting#logistics) at Cornell.
 
-* **[June 2024]** Passed my PhD thesis defense.
 
