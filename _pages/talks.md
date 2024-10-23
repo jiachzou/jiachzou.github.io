@@ -10,6 +10,8 @@ List of talks:
 ------
 ### 2024
 
+* [INFORMS Session on Financial Analytics and Technology](https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/EventDetail.aspx?evt=853) in Seattle, WA.
+
 * [The Econometric Society Interdisciplinary Frontiers Economics and AI+ML Meeting](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting#logistics) at Cornell.
 
 * [Hong Kong Conference for Fintech, AI, and Big Data in Business](https://cityuhkfintech.com/) at City University of Hong Kong.
