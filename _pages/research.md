@@ -31,8 +31,10 @@ author_profile: true
  - This is my PhD thesis, accessible from Stanford's archival system.
 
 
-4. **Asset pricing with Supply Chain Relationships** [(Code)](https://github.com/agcappo/SupplyChainAssetPricing) <br>
+4. **Asset pricing with Supply Chain Relationships** [(Paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617)[(Code)](https://github.com/agcappo/SupplyChainAssetPricing) <br>
 	Co-authors: Agostino Capponi, Jose Sidaoui <br>
+  - SWe propose a nonparametric method to aggregate rich firm characteristics over a large supply chain network to explain the cross-section of expected returns. Each target firm receives a nonlinearly constructed pricing signal passed from neighboring firms that are within $d$-hops on the supply chain network. 
+  - INFORMS 2024
     
 <!-- Linking CSS and JS -->
 <link rel="stylesheet" href="{{ '/assets/css/tags_highlight.css' | relative_url }}">
