@@ -31,9 +31,9 @@ author_profile: true
  - This is my PhD thesis, accessible from Stanford's archival system.
 
 
-4. **Asset pricing with Supply Chain Relationships** [(Paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617)[(Code)](https://github.com/agcappo/SupplyChainAssetPricing) <br>
+4. **Asset pricing with Supply Chain Relationships** [(Paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617) [(Code)](https://github.com/agcappo/SupplyChainAssetPricing) <br>
 	Co-authors: Agostino Capponi, Jose Sidaoui <br>
-  - SWe propose a nonparametric method to aggregate rich firm characteristics over a large supply chain network to explain the cross-section of expected returns. Each target firm receives a nonlinearly constructed pricing signal passed from neighboring firms that are within $d$-hops on the supply chain network. 
+  - We propose a nonparametric method to aggregate rich firm characteristics over a large supply chain network to explain the cross-section of expected returns. Each target firm receives a nonlinearly constructed pricing signal passed from neighboring firms that are within $d$-hops on the supply chain network. We find supply chain is useful for asset pricing: our model achieves over 50% higher out-of-sample Sharpe ratios compared to models using only direct suppliers and consumers, outperforming Fama-French five-factor and principal component models. Through a graph-Monte Carlo experiment, we demonstrate the interplay between $d$ and degree centrality, showing that the most central firms are twice as sensitive as peripheral firms. Our recommended $d = 6$ balances bias-variance and ensures robustness.
   - INFORMS 2024
     
 <!-- Linking CSS and JS -->
