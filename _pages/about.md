@@ -10,7 +10,7 @@ redirect_from:
 ---
 __Bio__    
 
-I was a postdoctoral research scientist at [Columbia IEOR](https://ieor.columbia.edu/) and [Data Science Institute](https://datascience.columbia.edu/), hosted by [Agostino Capponi](https://www.columbia.edu/~ac3827/). In 2024, I received PhD in [MS&E](https://msande.stanford.edu/) with PhD Minor in [Statistics](https://statistics.stanford.edu/) from Stanford. I was fortunate to be advised by [Markus Pelger](https://mpelger.people.stanford.edu/) as a member of the [Advanced Financial Technologies Lab](https://fintech.stanford.edu/). <br>
+I am a postdoctoral research scientist at [Columbia IEOR](https://ieor.columbia.edu/) and [Data Science Institute](https://datascience.columbia.edu/), hosted by [Agostino Capponi](https://www.columbia.edu/~ac3827/). In 2024, I received PhD in [MS&E](https://msande.stanford.edu/) with PhD Minor in [Statistics](https://statistics.stanford.edu/) from Stanford. I was fortunate to be advised by [Markus Pelger](https://mpelger.people.stanford.edu/) as a member of the [Advanced Financial Technologies Lab](https://fintech.stanford.edu/). <br>
 
 Doctoral dissertation committee: [Markus Pelger](https://mpelger.people.stanford.edu/), [Kay Giesecke](https://giesecke.people.stanford.edu/), [Itai Ashlagi](https://web.stanford.edu/~iashlagi/), [Han Hong](https://profiles.stanford.edu/han-hong), [Jann Spiess](https://gsb-faculty.stanford.edu/jann-spiess/). <br>
 
