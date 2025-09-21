@@ -21,9 +21,9 @@ Contact: jiachengzou [at] alumni.stanford.edu <br>
 
 __Research brief__    
 
-I develop statistical methods for inference in large dimensional data sets to make better decisions. My domain knowledge of financial economics and machine learning informs my methodological work. 
+I develop statistical methods for inference in large dimensional time series data to make better decisions. My domain knowledge of financial economics and modern neural networks informs my methodological work. 
 
-I identify [a new class of multiple testing problems in panel data learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891), which is broadly applicable. In a sequence of follow-up papers, I use this framework for latent graphs learning and change point detection in time-series. My current work includes graph neural networks applications in [global supply chain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617), sequential learning in non-stationary environment, and semi-parametric statistics for financial market microstructure.
+I identify [a new class of multiple testing problems in panel data learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891), which is broadly applicable for machine learning applications. In a sequence of follow-up papers, I use this framework for latent graphs learning and change point detection in time-series. My current work includes graph neural networks applications in [global supply chain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617), sequential learning in non-stationary environment, and non-stationarity learning theory for time series.
 
 See more in [my research tab](https://jiachzou.github.io//research/).
 
