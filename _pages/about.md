@@ -10,7 +10,7 @@ redirect_from:
 ---
 __Bio__    
 
-I work on [Autonomous Mobility & Delivery at Uber](https://www.uber.com/us/en/autonomous/). Previously, I was a postdoctoral research scientist at [Columbia IEOR](https://ieor.columbia.edu/) and [Data Science Institute](https://datascience.columbia.edu/), hosted by [Agostino Capponi](https://www.columbia.edu/~ac3827/). In 2024, I received PhD in [MS&E](https://msande.stanford.edu/) with PhD Minor in [Statistics](https://statistics.stanford.edu/) from Stanford. I was fortunate to be advised by [Markus Pelger](https://mpelger.people.stanford.edu/) as a member of the [Advanced Financial Technologies Lab](https://fintech.stanford.edu/). <br>
+I work on optimization and networks at [Autonomous Mobility & Delivery in Uber](https://www.uber.com/us/en/autonomous/). Previously, I was a postdoctoral research scientist at [Columbia IEOR](https://ieor.columbia.edu/) and [Data Science Institute](https://datascience.columbia.edu/), hosted by [Agostino Capponi](https://www.columbia.edu/~ac3827/). In 2024, I received PhD in [MS&E](https://msande.stanford.edu/) with PhD Minor in [Statistics](https://statistics.stanford.edu/) from Stanford. I was fortunate to be advised by [Markus Pelger](https://mpelger.people.stanford.edu/) as a member of the [Advanced Financial Technologies Lab](https://fintech.stanford.edu/). <br>
 
 Doctoral dissertation committee: [Markus Pelger](https://mpelger.people.stanford.edu/), [Kay Giesecke](https://giesecke.people.stanford.edu/), [Itai Ashlagi](https://web.stanford.edu/~iashlagi/), [Han Hong](https://profiles.stanford.edu/han-hong), [Jann Spiess](https://gsb-faculty.stanford.edu/jann-spiess/). <br>
 
@@ -30,6 +30,9 @@ See more in [my research tab](https://jiachzou.github.io//research/).
 ------
 
 __Updates__
+
+
+* **[Dec 2025]** Our [GNN for supply chain paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617) received _Major Revision at Journal of Financial Economics (JFE)_.
 
 * **[Oct 2024]** Present supply chain asset pricing at [INFORMS Session on Financial Analytics and Technology](https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/EventDetail.aspx?evt=853) in Seattle, WA.
 
