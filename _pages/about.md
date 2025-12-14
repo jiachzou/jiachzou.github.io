@@ -10,7 +10,7 @@ redirect_from:
 ---
 __Bio__    
 
-I work on optimization and networks at [Autonomous Mobility & Delivery in Uber](https://www.uber.com/us/en/autonomous/). Previously, I was a postdoctoral research scientist at [Columbia IEOR](https://ieor.columbia.edu/) and [Data Science Institute](https://datascience.columbia.edu/), hosted by [Agostino Capponi](https://www.columbia.edu/~ac3827/). In 2024, I received PhD in [MS&E](https://msande.stanford.edu/) with PhD Minor in [Statistics](https://statistics.stanford.edu/) from Stanford. I was fortunate to be advised by [Markus Pelger](https://mpelger.people.stanford.edu/) as a member of the [Advanced Financial Technologies Lab](https://fintech.stanford.edu/). <br>
+I work on optimization and networks at [Autonomous Mobility & Delivery team of Uber](https://www.uber.com/us/en/autonomous/). Previously, I was a postdoctoral research scientist at [Columbia IEOR](https://ieor.columbia.edu/) and [Data Science Institute](https://datascience.columbia.edu/), hosted by [Agostino Capponi](https://www.columbia.edu/~ac3827/). In 2024, I received PhD in [MS&E](https://msande.stanford.edu/) with PhD Minor in [Statistics](https://statistics.stanford.edu/) from Stanford. I was fortunate to be advised by [Markus Pelger](https://mpelger.people.stanford.edu/) as a member of the [Advanced Financial Technologies Lab](https://fintech.stanford.edu/). <br>
 
 Doctoral dissertation committee: [Markus Pelger](https://mpelger.people.stanford.edu/), [Kay Giesecke](https://giesecke.people.stanford.edu/), [Itai Ashlagi](https://web.stanford.edu/~iashlagi/), [Han Hong](https://profiles.stanford.edu/han-hong), [Jann Spiess](https://gsb-faculty.stanford.edu/jann-spiess/). <br>
 
@@ -21,9 +21,9 @@ Contact: jiachengzou [at] alumni.stanford.edu <br>
 
 __Research brief__    
 
-I develop statistical methods for inference in large dimensional time series data to make better decisions. My domain knowledge of financial economics and modern neural networks informs my methodological work. 
+I develop statistical methods for inference in large dimensional time series data to make better decisions. My domain knowledge of financial econometrics and modern neural networks informs my methodological work. 
 
-I identify [a new class of multiple testing problems in panel data learning](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891), which is broadly applicable for machine learning applications. In a sequence of follow-up papers, I use this framework for latent graphs learning and change point detection in time-series. My current work includes graph neural networks applications in [global supply chain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617), sequential learning in non-stationary environment, temporal-spatial optimization, and non-stationarity learning theory for time series.
+My current work includes graph neural networks applications in [global supply chain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617), sequential learning in non-stationary environment, temporal-spatial optimization, and non-stationarity learning theory for time series.
 
 See more in [my research tab](https://jiachzou.github.io//research/).
 
@@ -32,12 +32,11 @@ See more in [my research tab](https://jiachzou.github.io//research/).
 __Updates__
 
 
-* **[Dec 2025]** Our [GNN for supply chain paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617) received _Major Revision at Journal of Financial Economics (JFE)_.
+* **[Dec 2025]** Our [GNN for supply chain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617) paper received _Major Revision at Journal of Financial Economics (JFE)_.
 
-* **[Oct 2024]** Present supply chain asset pricing at [INFORMS Session on Financial Analytics and Technology](https://submissions.mirasmart.com/InformsAnnual2024/Itinerary/EventDetail.aspx?evt=853) in Seattle, WA.
+* **[May 2025]** Our [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) received _R&R at Management Science (MS)_.
 
-* **[Sep 2024]** Granted PhD degree at Stanford.
+* **[Aug 2024]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [Frontiers of Economics and AI+ML Meeting](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting#logistics) at Cornell.
 
-* **[Aug 2024]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [Econometric Society Interdisciplinary Frontiers Economics and AI+ML Meeting](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting#logistics) at Cornell.
 
 
