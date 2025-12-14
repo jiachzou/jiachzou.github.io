@@ -34,7 +34,7 @@ __Updates__
 
 * **[Dec 2025]** Our [graph learning for supply chain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617) paper received _Major Revision at Journal of Financial Economics (JFE)_.
 
-* **[May 2025]** Our [panel inference] paper (https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) received _R&R at Management Science (MS)_.
+* **[May 2025]** Our [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) paper received _R&R at Management Science (MS)_.
 
 * **[Aug 2024]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [Frontiers of Economics and AI+ML Meeting](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting#logistics) at Cornell.
 
