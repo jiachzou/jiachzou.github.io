@@ -32,9 +32,9 @@ See more in [my research tab](https://jiachzou.github.io//research/).
 __Updates__
 
 
-* **[Dec 2025]** Our [graph learning for supply chain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617) paper received _Major Revision at Journal of Financial Economics (JFE)_.
+* **[Dec 2025]** _R&R at Journal of Financial Economics (JFE)_ for our [graph learning for supply chain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617) paper.
 
-* **[May 2025]** Our [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) paper received _R&R at Management Science (MS)_.
+* **[Apr 2025]** _R&R at Management Science (MS)_ for our [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) paper.
 
 * **[Aug 2024]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [Frontiers of Economics and AI+ML Meeting](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting#logistics) at Cornell.
 
