@@ -21,9 +21,9 @@ Contact: jiachengzou [at] alumni.stanford.edu <br>
 
 __Research brief__    
 
-I develop statistical methods for inference in large dimensional time series data to make better decisions. My domain knowledge of financial econometrics and modern neural networks informs my methodological work. 
+I develop statistical methods for inference in large dimensional time series data to make better decisions. My goal is to design useful tools merging econometrics and Transformer-based ML.
 
-My current work includes graph neural networks applications in [global supply chain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617), sequential learning in non-stationary environment, temporal-spatial optimization, and non-stationarity learning theory for time series.
+My current work includes graph neural networks applications in [supply chains](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617) and learning in non-stationary environment.
 
 See more in [my research tab](https://jiachzou.github.io//research/).
 
@@ -32,9 +32,9 @@ See more in [my research tab](https://jiachzou.github.io//research/).
 __Updates__
 
 
-* **[Dec 2025]** _R&R at Journal of Financial Economics (JFE)_ for our [graph learning for supply chain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617) paper.
+* **[Dec 2025]** _R&R at **Journal of Financial Economics (JFE)**_ for our [graph learning for supply chain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617) paper.
 
-* **[Apr 2025]** _R&R at Management Science (MS)_ for our [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) paper.
+* **[Apr 2025]** _R&R at **Management Science (MS)**_ for our [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) paper.
 
 * **[Aug 2024]** Present [panel inference](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891) in [Frontiers of Economics and AI+ML Meeting](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting#logistics) at Cornell.
 
