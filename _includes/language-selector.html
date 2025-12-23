@@ -1,5 +1,140 @@
 {% include base_path %}
 
+<style>
+.language-selector {
+  position: relative;
+  display: inline-block !important;
+  margin-left: 15px;
+  visibility: visible !important;
+  z-index: 10;
+}
+
+.language-selector-btn {
+  background: none;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  padding: 0.25rem 0.5rem;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  font-size: 0.8rem;
+  transition: all 0.2s ease;
+  color: inherit;
+}
+
+.language-selector-btn:hover {
+  background-color: #f8f9fa;
+  border-color: #9eceeb;
+}
+
+.language-icon {
+  margin-left: 0.25rem;
+  fill: currentColor;
+}
+
+.language-dropdown {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background-color: #fff;
+  border: 1px solid #eee;
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  z-index: 100;
+  min-width: 120px;
+  padding: 0.25rem 0;
+  margin-top: 0.25rem;
+  opacity: 0;
+  visibility: hidden;
+  transform: translateY(-10px);
+  transition: all 0.2s ease;
+}
+
+.language-dropdown.show {
+  opacity: 1;
+  visibility: visible;
+  transform: translateY(0);
+}
+
+.language-dropdown li {
+  margin: 0;
+  list-style: none;
+}
+
+.language-dropdown a {
+  display: block;
+  padding: 0.5rem 0.75rem;
+  color: #494e52;
+  text-decoration: none;
+  font-size: 0.8rem;
+  transition: background-color 0.2s ease;
+}
+
+.language-dropdown a:hover {
+  background-color: #f8f9fa;
+}
+
+.language-dropdown a.active {
+  background-color: #9eceeb;
+  color: #fff;
+}
+
+/* Ensure visibility in masthead and responsive behavior */
+.masthead__menu-item .language-selector {
+  display: inline-block !important;
+  visibility: visible !important;
+}
+
+/* Force language selector to always be visible in greedy nav */
+.greedy-nav .visible-links .masthead__menu-item:last-child {
+  display: table-cell !important;
+  visibility: visible !important;
+  position: relative !important;
+  z-index: 10 !important;
+}
+
+/* Ensure language selector is never hidden by greedy nav JavaScript */
+.greedy-nav__toggle ~ .visible-links .masthead__menu-item:last-child {
+  display: table-cell !important;
+  visibility: visible !important;
+}
+
+/* For medium screens and below */
+@media (max-width: 925px) {
+  .masthead__menu-item .language-selector {
+    margin-left: 10px;
+    margin-right: 5px;
+  }
+  
+  .language-selector-btn {
+    padding: 0.2rem 0.4rem;
+    font-size: 0.75rem;
+  }
+}
+
+/* For small screens */
+@media (max-width: 768px) {
+  .masthead__menu-item .language-selector {
+    margin-left: 5px;
+    margin-right: 5px;
+  }
+  
+  .language-selector-btn {
+    padding: 0.2rem 0.3rem;
+    font-size: 0.7rem;
+  }
+  
+  .language-dropdown {
+    min-width: 100px;
+  }
+  
+  .language-dropdown a {
+    padding: 0.4rem 0.6rem;
+    font-size: 0.7rem;
+  }
+}
+</style>
+
 <div class="language-selector">
   <button class="language-selector-btn" id="language-btn">
     <span id="current-lang">EN</span>
@@ -14,88 +149,7 @@
   </ul>
 </div>
 
-<style>
-.language-selector {
-  position: relative;
-  display: inline-block;
-  margin-left: 15px;
-}
 
-.language-selector-btn {
-  display: flex;
-  align-items: center;
-  background: transparent;
-  border: 1px solid rgba(255, 255, 255, 0.5);
-  border-radius: 4px;
-  padding: 5px 10px;
-  color: #fff;
-  cursor: pointer;
-  font-size: 14px;
-  transition: all 0.2s ease;
-}
-
-.language-selector-btn:hover {
-  background-color: rgba(255, 255, 255, 0.1);
-  border-color: rgba(255, 255, 255, 0.8);
-}
-
-.language-icon {
-  margin-left: 5px;
-  fill: currentColor;
-}
-
-.language-dropdown {
-  position: absolute;
-  top: 100%;
-  right: 0;
-  background-color: #fff;
-  border: 1px solid #ddd;
-  border-radius: 4px;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-  list-style: none;
-  padding: 0;
-  margin: 5px 0 0 0;
-  min-width: 120px;
-  z-index: 1000;
-  display: none;
-}
-
-.language-dropdown.show {
-  display: block;
-}
-
-.language-dropdown li {
-  margin: 0;
-}
-
-.lang-option {
-  display: block;
-  padding: 8px 12px;
-  color: #333;
-  text-decoration: none;
-  font-size: 14px;
-  transition: background-color 0.2s;
-}
-
-.lang-option:hover {
-  background-color: #f5f5f5;
-}
-
-.lang-option.active {
-  background-color: #eaeaea;
-  font-weight: bold;
-}
-
-/* Dark theme support */
-.masthead__menu-item .language-selector-btn {
-  color: inherit;
-  border-color: rgba(255, 255, 255, 0.7);
-}
-
-.masthead__menu-item .language-selector-btn:hover {
-  background-color: rgba(255, 255, 255, 0.1);
-}
-</style>
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {

@@ -1,0 +1,10 @@
+# Chinese Simplified navigation links
+main:
+  - title: "研究"
+    url: /research/
+    
+  - title: "演讲"
+    url: /talks/  
+    
+  - title: "教学"
+    url: /teaching/

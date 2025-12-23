@@ -19,11 +19,26 @@ function updateNav() {
   // The visible list is overflowing the nav
   if($vlinks.width() > availableSpace) {
 
+    // Check if the last item is a language selector, if so, try the previous item
+    var $lastItem = $vlinks.children().last();
+    var $itemToMove = $lastItem;
+    
+    // If the last item contains a language selector, don't move it
+    if($lastItem.find('.language-selector').length > 0) {
+      // Try the previous item instead
+      $itemToMove = $lastItem.prev();
+      
+      // If there's no previous item or it also contains a language selector, don't move anything
+      if($itemToMove.length === 0 || $itemToMove.find('.language-selector').length > 0) {
+        return; // Don't hide the language selector
+      }
+    }
+
     // Record the width of the list
     breaks.push($vlinks.width());
 
     // Move item to the hidden list
-    $vlinks.children().last().prependTo($hlinks);
+    $itemToMove.prependTo($hlinks);
 
     // Show the dropdown btn
     if($btn.hasClass('hidden')) {

@@ -1,0 +1,10 @@
+# Chinese Traditional navigation links
+main:
+  - title: "研究"
+    url: /research/
+    
+  - title: "演講"
+    url: /talks/  
+    
+  - title: "教學"
+    url: /teaching/
