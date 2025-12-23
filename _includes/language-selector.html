@@ -1,0 +1,206 @@
+{% include base_path %}
+
+<div class="language-selector">
+  <button class="language-selector-btn" id="language-btn">
+    <span id="current-lang">EN</span>
+    <svg class="language-icon" width="12" height="12" viewBox="0 0 24 24">
+      <path d="M7 10l5 5 5-5z"/>
+    </svg>
+  </button>
+  <ul class="language-dropdown" id="language-dropdown">
+    <li><a href="#" class="lang-option" data-lang="en">English</a></li>
+    <li><a href="#" class="lang-option" data-lang="zh-CN">简体中文</a></li>
+    <li><a href="#" class="lang-option" data-lang="zh-TW">繁體中文</a></li>
+  </ul>
+</div>
+
+<style>
+.language-selector {
+  position: relative;
+  display: inline-block;
+  margin-left: 15px;
+}
+
+.language-selector-btn {
+  display: flex;
+  align-items: center;
+  background: transparent;
+  border: 1px solid rgba(255, 255, 255, 0.5);
+  border-radius: 4px;
+  padding: 5px 10px;
+  color: #fff;
+  cursor: pointer;
+  font-size: 14px;
+  transition: all 0.2s ease;
+}
+
+.language-selector-btn:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+  border-color: rgba(255, 255, 255, 0.8);
+}
+
+.language-icon {
+  margin-left: 5px;
+  fill: currentColor;
+}
+
+.language-dropdown {
+  position: absolute;
+  top: 100%;
+  right: 0;
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  list-style: none;
+  padding: 0;
+  margin: 5px 0 0 0;
+  min-width: 120px;
+  z-index: 1000;
+  display: none;
+}
+
+.language-dropdown.show {
+  display: block;
+}
+
+.language-dropdown li {
+  margin: 0;
+}
+
+.lang-option {
+  display: block;
+  padding: 8px 12px;
+  color: #333;
+  text-decoration: none;
+  font-size: 14px;
+  transition: background-color 0.2s;
+}
+
+.lang-option:hover {
+  background-color: #f5f5f5;
+}
+
+.lang-option.active {
+  background-color: #eaeaea;
+  font-weight: bold;
+}
+
+/* Dark theme support */
+.masthead__menu-item .language-selector-btn {
+  color: inherit;
+  border-color: rgba(255, 255, 255, 0.7);
+}
+
+.masthead__menu-item .language-selector-btn:hover {
+  background-color: rgba(255, 255, 255, 0.1);
+}
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const languageBtn = document.getElementById('language-btn');
+  const languageDropdown = document.getElementById('language-dropdown');
+  const currentLangSpan = document.getElementById('current-lang');
+  const langOptions = document.querySelectorAll('.lang-option');
+  
+  // Toggle dropdown
+  languageBtn.addEventListener('click', function(e) {
+    e.stopPropagation();
+    languageDropdown.classList.toggle('show');
+  });
+  
+  // Close dropdown when clicking outside
+  document.addEventListener('click', function() {
+    languageDropdown.classList.remove('show');
+  });
+  
+  // Handle language selection
+  langOptions.forEach(option => {
+    option.addEventListener('click', function(e) {
+      e.preventDefault();
+      const selectedLang = this.getAttribute('data-lang');
+      const selectedLangText = this.textContent;
+      
+      // Update current language display
+      currentLangSpan.textContent = selectedLang === 'en' ? 'EN' : 
+                                  selectedLang === 'zh-CN' ? '简' : '繁';
+      
+      // Update active state
+      langOptions.forEach(opt => opt.classList.remove('active'));
+      this.classList.add('active');
+      
+      // Store language preference
+      localStorage.setItem('preferred-language', selectedLang);
+      
+      // Update page URL with language parameter
+      const url = new URL(window.location);
+      url.searchParams.set('lang', selectedLang);
+      window.history.replaceState({}, '', url);
+      
+      // Apply translations with animation
+      document.body.style.opacity = '0.8';
+      setTimeout(() => {
+        applyTranslations(selectedLang);
+        document.body.style.opacity = '1';
+      }, 150);
+      
+      // Trigger custom event for other components
+      window.dispatchEvent(new CustomEvent('languageChanged', { detail: { language: selectedLang } }));
+      
+      // Close dropdown
+      languageDropdown.classList.remove('show');
+    });
+  });
+  
+  // Load saved language preference or default to English
+  const savedLanguage = localStorage.getItem('preferred-language') || 'en';
+  const defaultOption = document.querySelector(`.lang-option[data-lang="${savedLanguage}"]`);
+  if (defaultOption) {
+    defaultOption.click();
+  }
+  
+  // Translation function
+  function applyTranslations(lang) {
+    // Define translations
+    const translations = {
+      'en': {
+        'site-title': 'Jiacheng Zou 邹嘉成',
+        'nav-research': 'Research',
+        'nav-talks': 'Talks',
+        'nav-teaching': 'Teaching'
+      },
+      'zh-CN': {
+        'site-title': '邹嘉成',
+        'nav-research': '研究',
+        'nav-talks': '演讲',
+        'nav-teaching': '教学'
+      },
+      'zh-TW': {
+        'site-title': '鄒嘉成',
+        'nav-research': '研究',
+        'nav-talks': '演講',
+        'nav-teaching': '教學'
+      }
+    };
+    
+    const t = translations[lang];
+    if (!t) return;
+    
+    // Apply translations to page elements
+    const siteTitle = document.querySelector('.masthead__menu-item--lg a');
+    if (siteTitle) siteTitle.textContent = t['site-title'];
+    
+    // Apply translations to navigation
+    const navLinks = document.querySelectorAll('.masthead__menu-item a');
+    if (navLinks.length >= 4) {
+      navLinks[1].textContent = t['nav-research'];
+      navLinks[2].textContent = t['nav-talks'];
+      navLinks[3].textContent = t['nav-teaching'];
+    }
+    
+    // Store current language in global variable
+    window.currentLanguage = lang;
+  }
+});
+</script>

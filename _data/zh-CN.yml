@@ -1,0 +1,31 @@
+# Simplified Chinese translations
+site:
+  title: "邹嘉成"
+  description: "斯坦福大学博士生"
+
+navigation:
+  research: "研究"
+  talks: "演讲"
+  teaching: "教学"
+  cv: "简历"
+
+about:
+  bio_title: "个人简介"
+  bio_content: "我在[优步自动驾驶与配送团队](https://www.uber.com/us/en/autonomous/)从事优化和网络工作。此前，我是[哥伦比亚大学工业工程与运筹学系](https://ieor.columbia.edu/)和[数据科学研究所](https://datascience.columbia.edu/)的博士后研究员，导师是[Agostino Capponi](https://www.columbia.edu/~ac3827/)。2024年，我在斯坦福大学获得[管理科学与工程系](https://msande.stanford.edu/)博士学位，并获得[统计学系](https://statistics.stanford.edu/)辅修博士学位。我有幸在[Markus Pelger](https://mpelger.people.stanford.edu/)教授的指导下，作为[先进金融技术实验室](https://fintech.stanford.edu/)的一员完成学业。"
+  
+  committee_title: "博士论文委员会："
+  contact_label: "联系方式："
+  contact_info: "jiachengzou [at] alumni.stanford.edu"
+  
+  research_title: "研究简介"
+  research_content: "我开发用于大规模时间序列数据推断的统计方法，以做出更好的决策。我的目标是设计融合计量经济学和基于Transformer的机器学习的实用工具。我目前的工作包括图神经网络在[供应链](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617)中的应用以及非平稳环境中的学习。"
+  see_more: "更多信息请访问[我的研究页面]({{ site.baseurl }}/research/)。"
+  
+  updates_title: "最新动态"
+  updates:
+    - date: "2025年12月"
+      content: "我们的[供应链图学习](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617)论文被**《金融经济学杂志》(JFE)**_接收修订。"
+    - date: "2025年4月"
+      content: "我们的[面板推断](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891)论文被**《管理科学》(MS)**_接收修订。"
+    - date: "2024年8月"
+      content: "在康奈尔大学[经济学与AI+ML前沿会议](https://www.econometricsociety.org/regional-activities/schedule/2024/08/13/2024-ESIFEconomics-and-AIML-Meeting#logistics)上展示[面板推断](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4315891)研究。"

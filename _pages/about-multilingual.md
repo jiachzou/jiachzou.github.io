@@ -123,10 +123,17 @@ document.addEventListener('DOMContentLoaded', function() {
   
   // Listen for language changes
   document.addEventListener('languageChanged', function(e) {
-    loadAboutContent(e.detail.language);
+    loadAboutContent(e.detail.lang);
   });
+  
+  // Override the language selector's applyTranslations function to trigger our event
+  const originalApplyTranslations = window.applyTranslations;
+  window.applyTranslations = function(lang) {
+    if (originalApplyTranslations) originalApplyTranslations(lang);
+    
+    // Create and dispatch custom event
+    const event = new CustomEvent('languageChanged', { detail: { lang } });
+    document.dispatchEvent(event);
+  };
 });
 </script>
-
-
-
