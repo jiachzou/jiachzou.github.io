@@ -7,7 +7,10 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
+lang: en
 ---
+
+{% include simple-language-switcher.html %}
 __Bio__    
 
 I work on optimization and networks at [Autonomous Mobility & Delivery team of Uber](https://www.uber.com/us/en/autonomous/). Previously, I was a postdoctoral research scientist at [Columbia IEOR](https://ieor.columbia.edu/) and [Data Science Institute](https://datascience.columbia.edu/), hosted by [Agostino Capponi](https://www.columbia.edu/~ac3827/). In 2024, I received PhD in [MS&E](https://msande.stanford.edu/) with PhD Minor in [Statistics](https://statistics.stanford.edu/) from Stanford. I was fortunate to be advised by [Markus Pelger](https://mpelger.people.stanford.edu/) as a member of the [Advanced Financial Technologies Lab](https://fintech.stanford.edu/). <br>

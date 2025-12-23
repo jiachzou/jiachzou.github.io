@@ -1,0 +1,57 @@
+<div class="language-switcher">
+  <div class="lang-options">
+    <a href="{{ base_path }}/" class="lang-link {% if page.lang == 'en' or page.lang == nil %}active{% endif %}">EN</a>
+    <a href="{{ base_path }}/zh-cn/" class="lang-link {% if page.lang == 'zh-CN' %}active{% endif %}">简</a>
+    <a href="{{ base_path }}/zh-tw/" class="lang-link {% if page.lang == 'zh-TW' %}active{% endif %}">繁</a>
+  </div>
+</div>
+
+<style>
+.language-switcher {
+  text-align: right;
+  margin: 10px 0 20px 0;
+}
+
+.lang-options {
+  display: inline-flex;
+  border: 1px solid #e9ecef;
+  border-radius: 20px;
+  overflow: hidden;
+  background: #fff;
+}
+
+.lang-link {
+  padding: 6px 12px;
+  text-decoration: none;
+  color: #494e52;
+  font-size: 0.8rem;
+  font-weight: 500;
+  transition: all 0.2s ease;
+  border-right: 1px solid #e9ecef;
+}
+
+.lang-link:last-child {
+  border-right: none;
+}
+
+.lang-link:hover {
+  background-color: #f8f9fa;
+}
+
+.lang-link.active {
+  background-color: #9eceeb;
+  color: #fff;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .language-switcher {
+    text-align: center;
+  }
+  
+  .lang-link {
+    padding: 5px 10px;
+    font-size: 0.75rem;
+  }
+}
+</style>
