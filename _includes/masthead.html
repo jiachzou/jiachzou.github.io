@@ -24,3 +24,41 @@
     </div>
   </div>
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  // Update site title based on current language
+  function updateSiteTitle() {
+    const path = window.location.pathname;
+    const siteTitle = document.querySelector('.masthead__menu-item--lg a');
+    
+    if (path.includes('/zh-cn/') && siteTitle) {
+      siteTitle.textContent = '邹嘉成';
+    } else if (path.includes('/zh-tw/') && siteTitle) {
+      siteTitle.textContent = '鄒嘉成';
+    } else if (siteTitle) {
+      siteTitle.textContent = 'Jiacheng Zou 邹嘉成';
+    }
+    
+    // Update navigation labels
+    const navLinks = document.querySelectorAll('.masthead__menu-item a');
+    if (navLinks.length >= 4) {
+      if (path.includes('/zh-cn/')) {
+        navLinks[1].textContent = '研究';
+        navLinks[2].textContent = '演讲';
+        navLinks[3].textContent = '教学';
+      } else if (path.includes('/zh-tw/')) {
+        navLinks[1].textContent = '研究';
+        navLinks[2].textContent = '演講';
+        navLinks[3].textContent = '教學';
+      } else {
+        navLinks[1].textContent = 'Research';
+        navLinks[2].textContent = 'Talks';
+        navLinks[3].textContent = 'Teaching';
+      }
+    }
+  }
+  
+  updateSiteTitle();
+});
+</script>

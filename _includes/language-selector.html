@@ -8,9 +8,9 @@
     </svg>
   </button>
   <ul class="language-dropdown" id="language-dropdown">
-    <li><a href="#" class="lang-option" data-lang="en">English</a></li>
-    <li><a href="#" class="lang-option" data-lang="zh-CN">简体中文</a></li>
-    <li><a href="#" class="lang-option" data-lang="zh-TW">繁體中文</a></li>
+    <li><a href="{{ base_path }}/" class="lang-option" data-lang="en">English</a></li>
+    <li><a href="{{ base_path }}/zh-cn/" class="lang-option" data-lang="zh-CN">简体中文</a></li>
+    <li><a href="{{ base_path }}/zh-tw/" class="lang-option" data-lang="zh-TW">繁體中文</a></li>
   </ul>
 </div>
 
@@ -104,6 +104,25 @@ document.addEventListener('DOMContentLoaded', function() {
   const currentLangSpan = document.getElementById('current-lang');
   const langOptions = document.querySelectorAll('.lang-option');
   
+  // Determine current language based on URL
+  function getCurrentLanguage() {
+    const path = window.location.pathname;
+    if (path.includes('/zh-cn/')) return 'zh-CN';
+    if (path.includes('/zh-tw/')) return 'zh-TW';
+    return 'en';
+  }
+  
+  // Update current language display
+  function updateLanguageDisplay(lang) {
+    currentLangSpan.textContent = lang === 'en' ? 'EN' : 
+                                lang === 'zh-CN' ? '简' : '繁';
+    
+    // Update active state
+    langOptions.forEach(opt => opt.classList.remove('active'));
+    const activeOption = document.querySelector(`.lang-option[data-lang="${lang}"]`);
+    if (activeOption) activeOption.classList.add('active');
+  }
+  
   // Toggle dropdown
   languageBtn.addEventListener('click', function(e) {
     e.stopPropagation();
@@ -115,92 +134,7 @@ document.addEventListener('DOMContentLoaded', function() {
     languageDropdown.classList.remove('show');
   });
   
-  // Handle language selection
-  langOptions.forEach(option => {
-    option.addEventListener('click', function(e) {
-      e.preventDefault();
-      const selectedLang = this.getAttribute('data-lang');
-      const selectedLangText = this.textContent;
-      
-      // Update current language display
-      currentLangSpan.textContent = selectedLang === 'en' ? 'EN' : 
-                                  selectedLang === 'zh-CN' ? '简' : '繁';
-      
-      // Update active state
-      langOptions.forEach(opt => opt.classList.remove('active'));
-      this.classList.add('active');
-      
-      // Store language preference
-      localStorage.setItem('preferred-language', selectedLang);
-      
-      // Update page URL with language parameter
-      const url = new URL(window.location);
-      url.searchParams.set('lang', selectedLang);
-      window.history.replaceState({}, '', url);
-      
-      // Apply translations with animation
-      document.body.style.opacity = '0.8';
-      setTimeout(() => {
-        applyTranslations(selectedLang);
-        document.body.style.opacity = '1';
-      }, 150);
-      
-      // Trigger custom event for other components
-      window.dispatchEvent(new CustomEvent('languageChanged', { detail: { language: selectedLang } }));
-      
-      // Close dropdown
-      languageDropdown.classList.remove('show');
-    });
-  });
-  
-  // Load saved language preference or default to English
-  const savedLanguage = localStorage.getItem('preferred-language') || 'en';
-  const defaultOption = document.querySelector(`.lang-option[data-lang="${savedLanguage}"]`);
-  if (defaultOption) {
-    defaultOption.click();
-  }
-  
-  // Translation function
-  function applyTranslations(lang) {
-    // Define translations
-    const translations = {
-      'en': {
-        'site-title': 'Jiacheng Zou 邹嘉成',
-        'nav-research': 'Research',
-        'nav-talks': 'Talks',
-        'nav-teaching': 'Teaching'
-      },
-      'zh-CN': {
-        'site-title': '邹嘉成',
-        'nav-research': '研究',
-        'nav-talks': '演讲',
-        'nav-teaching': '教学'
-      },
-      'zh-TW': {
-        'site-title': '鄒嘉成',
-        'nav-research': '研究',
-        'nav-talks': '演講',
-        'nav-teaching': '教學'
-      }
-    };
-    
-    const t = translations[lang];
-    if (!t) return;
-    
-    // Apply translations to page elements
-    const siteTitle = document.querySelector('.masthead__menu-item--lg a');
-    if (siteTitle) siteTitle.textContent = t['site-title'];
-    
-    // Apply translations to navigation
-    const navLinks = document.querySelectorAll('.masthead__menu-item a');
-    if (navLinks.length >= 4) {
-      navLinks[1].textContent = t['nav-research'];
-      navLinks[2].textContent = t['nav-talks'];
-      navLinks[3].textContent = t['nav-teaching'];
-    }
-    
-    // Store current language in global variable
-    window.currentLanguage = lang;
-  }
+  // Initialize language display
+  updateLanguageDisplay(getCurrentLanguage());
 });
 </script>
