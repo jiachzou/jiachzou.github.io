@@ -20,13 +20,13 @@ author_profile: true
 	Co-author: Markus Pelger <br>
     - _R&R at Management Science_.
     - We propose Panel Multiple Testing that allows us to select covariates that explain a large cross-section with false discovery control. In our empirical asset pricing study, we select sparse risk factors from a factor zoo of 114, to explain 243 doubly-sorted portfolio excess returns. 
-    - NASMES 2023, AMES 2023, INFORMS 2023, 11th Western Conference on Mathematical Finance, NBER-NSF SBIES 2022, California Econometrics Conference 2022, Stanford HAI [Financial Services Industry Review](https://hai.stanford.edu/industry-brief-financial-services-and-ai)
+    - Stanford GSB, CityU Hong Kong; NASMES, AMES, INFORMS, Western Conference on Mathematical Finance, NBER-NSF SBIES, California Econometrics Conference, Stanford HAI [Financial Services Industry Review](https://hai.stanford.edu/industry-brief-financial-services-and-ai)
 
 2. **Graph Machine Learning for Asset Pricing: Traversing the Supply Chain** [(Paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617) [(Code)](https://github.com/agcappo/SupplyChainAssetPricing) <br>
   Co-authors: Agostino Capponi, Jose Sidaoui <br>
   - _Major Revision at Journal of Financial Economics (JFE)_.
   - We develop a nonparametric method to aggregate firm characteristics across a large supply chain network to explain cross-sectional expected returns. Each firm receives a pricing signal, nonlinearly constructed from the characteristics of neighboring firms within d-hops on the network. We find that $d = 3$ – encompassing network effects up to the third order – balances bias reduction from higher-order relations against variance from added complexity. Our model leads to a portfolio sorted by ML-driven firm-level estimated returns that condition on both historical supply chain data and firm characteristics. We achieve over a 16% out-of-sample Sharpe gain vs direct-link models, and outperform the Fama–French five-factor and PCA benchmarks. We find that the ML-managed portfolio improves mean-variance efficiency, measured by Sharpe ratio. Lastly, we show that the conditional mean return estimation of more central firms is 55% more sensitive to missingness of supply chain links compared to that of peripheral firms in the supply chain graph.
-  - INFORMS 2024, Luohan Academy Finance Sessions, Northern Finance Association Annual Meetings, European Finance Association Annual Meeting, Inaugural Finance Research Revolution Conference Vitznau, Switzerland
+  - UT Austin, UNC, Baruch; SoFiE, NFA, EFA, Inaugural Finance Research Revolution Conference at Vitznau, Switzerland, INFORMS, Luohan Academy
 
 3. **The Nonstationarity-Complexity Tradeoff in Return Prediction** [(Paper)](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5980654)  <br>
   Co-authors: Agostino Capponi, Chengpiao Huang, Jose Sidaoui, Kaizheng Wang <br>
