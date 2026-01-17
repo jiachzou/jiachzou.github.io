@@ -35,8 +35,7 @@ See more in [my research tab](https://jiachzou.github.io//research/).
 __Updates__
 
 
-* [Dec 2025] New paper [the Nonstationarity-Complexity Tradeoff in Return Prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5980654) is posted. Key figure:
-
+* [Dec 2025] New paper [the Nonstationarity-Complexity Tradeoff in Return Prediction](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5980654) is now posted. Our method _ATOMS_ leads to better performance during non-stationarity e.g. recessions:
 ![ATOMTable2]({{ base_path }}/images/ATOMTable2.png){: .align-center width="100%" style="max-width: 800px;" }
 
 * [Dec 2025] _R&R at **Journal of Financial Economics (JFE)**_ for our [graph learning for supply chain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617) paper.
