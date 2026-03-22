@@ -41,3 +41,24 @@ author_profile: true
 {% endfor %}
 {% endif %}
 </div>
+
+<!-- ============================================================
+     Visitor Globe
+     To activate: sign up free at https://clustrmaps.com,
+     add your site URL, and replace CLUSTRMAPS_ID below with
+     the ID from your widget script (the value after "?d=").
+     ============================================================ -->
+<div class="visitor-map-section">
+  <h3 class="visitor-map-title">
+    <i class="fa fa-globe" aria-hidden="true"></i> Readers Around the World
+  </h3>
+  <div class="visitor-map-container">
+    <script type="text/javascript" id="clustrmaps"
+      src="//clustrmaps.com/globe.js?d=CLUSTRMAPS_ID">
+    </script>
+  </div>
+  <p class="visitor-map-note">
+    Visitor locations are tracked anonymously via
+    <a href="https://clustrmaps.com" target="_blank" rel="noopener">ClustrMaps</a>.
+  </p>
+</div>
