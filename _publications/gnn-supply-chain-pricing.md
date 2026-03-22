@@ -3,7 +3,6 @@ title: "Graph Machine Learning for Asset Pricing: Traversing the Supply Chain"
 collection: publications
 permalink: /research/gnn-supply-chain-pricing/
 date: 2024-11-01
-venue: "Journal of Financial Economics"
 status: "Major Revision"
 authors: "Agostino Capponi, Jose Sidaoui, Jiacheng Zou"
 paperurl: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617"
