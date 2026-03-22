@@ -11,10 +11,6 @@ codeurl: "https://github.com/agcappo/SupplyChainAssetPricing"
 thumbnail: /images/blog/gnn-supply-chain-pricing-thumb.png
 ---
 
-<div style="display:inline-block; background:#1a5276; color:#fff; font-size:0.78rem; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; padding:0.35em 0.9em; border-radius:3px; margin-bottom:1.5rem;">
-  Major Revision &nbsp;·&nbsp; Journal of Financial Economics
-</div>
-
 <div style="display:flex; gap:1rem; margin-bottom:2rem; flex-wrap:wrap;">
   <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5031617" class="btn btn--primary" target="_blank" rel="noopener">Paper (SSRN)</a>
   <a href="https://github.com/agcappo/SupplyChainAssetPricing" class="btn" target="_blank" rel="noopener">Code</a>

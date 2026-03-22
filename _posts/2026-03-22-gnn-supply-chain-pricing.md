@@ -16,10 +16,6 @@ tags:
 - machine learning
 ---
 
-<div style="display:inline-block; background:#1a5276; color:#fff; font-size:0.78rem; font-weight:700; letter-spacing:0.08em; text-transform:uppercase; padding:0.35em 0.9em; border-radius:3px; margin-bottom:1.5rem;">
-  Major Revision &nbsp;·&nbsp; Journal of Financial Economics
-</div>
-
 Standard asset pricing treats firms as isolated atoms — each valued solely on its own balance sheet, momentum, and factor loadings. But in reality, a chip shortage at TSMC reverberates through Apple's supply chain, and on to every automaker waiting for electronics. **Why should we expect a model that ignores these connections to price assets well?**
 
 We don't — and in this paper, we show that it can't.
@@ -57,7 +53,7 @@ Supply chain data has become increasingly available and granular. This paper sho
     </a>
   </p>
   <p style="margin:0; font-size:0.83rem; color:#777;">
-    Capponi, Sidaoui &amp; Zou &nbsp;·&nbsp; SSRN Working Paper 5031617 &nbsp;·&nbsp; <em>Major Revision, Journal of Financial Economics</em>
+    Capponi, Sidaoui &amp; Zou &nbsp;·&nbsp; SSRN Working Paper 5031617
   </p>
   <p style="margin:0.6rem 0 0 0; font-size:0.83rem;">
     <a href="https://github.com/agcappo/SupplyChainAssetPricing" target="_blank" rel="noopener">Code on GitHub</a>
