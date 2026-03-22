@@ -4,8 +4,6 @@ layout: default
 
 {% include base_path %}
 
-<link rel="stylesheet" href="{{ '/assets/css/blog.css' | relative_url }}">
-
 <div id="main" role="main">
   {% include sidebar.html %}
 
@@ -31,6 +29,13 @@ layout: default
         {% endif %}
       </header>
 
+      {% if page.thumbnail %}
+      <img
+        src="{{ page.thumbnail | relative_url }}"
+        alt="{{ page.title }}"
+        class="blog-post-thumbnail">
+      {% endif %}
+
       <section class="page__content blog-post-content" itemprop="text">
         {{ content }}
       </section>
@@ -44,7 +49,6 @@ layout: default
   </article>
 </div>
 
-<!-- MathJax for LaTeX-style equations -->
 <script type="text/x-mathjax-config">
   MathJax.Hub.Config({
     tex2jax: {
@@ -53,13 +57,7 @@ layout: default
       processEscapes: true,
       skipTags: ['script','noscript','style','textarea','pre','code']
     },
-    TeX: {
-      equationNumbers: { autoNumber: "AMS" },
-      extensions: ["AMSmath.js", "AMSsymbols.js"]
-    },
-    "HTML-CSS": { availableFonts: ["TeX"] }
+    TeX: { equationNumbers: { autoNumber: "AMS" } }
   });
 </script>
-<script type="text/javascript" async
-  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_CHTML">
-</script>
+<script async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_CHTML"></script>
