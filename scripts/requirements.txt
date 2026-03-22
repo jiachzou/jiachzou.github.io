@@ -1,0 +1,18 @@
+PyYAML>=6.0
+
+# Pick ONE image backend — install only what you use:
+
+# Option A: Hugging Face (free, recommended)
+huggingface_hub>=0.22.0
+
+# Option B: Replicate (free credits)
+# replicate>=0.25.0
+
+# Option C: Google Gemini / Imagen 3 ($300 free credit)
+# google-generativeai>=0.8.0
+
+# Option D: Local diffusers (no API key, GPU optional)
+# diffusers>=0.30.0
+# transformers>=4.40.0
+# accelerate>=0.30.0
+# torch>=2.2.0

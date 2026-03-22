@@ -1,0 +1,192 @@
+/* ============================================================
+   Blog listing — card grid
+   ============================================================ */
+
+.blog-list {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  margin-top: 1rem;
+}
+
+.blog-card {
+  display: flex;
+  gap: 1.5rem;
+  padding: 1.25rem;
+  border: 1px solid #e2e2e2;
+  border-radius: 6px;
+  background: #fff;
+  transition: box-shadow 0.2s ease, transform 0.2s ease;
+}
+
+.blog-card:hover {
+  box-shadow: 0 4px 18px rgba(0, 0, 0, 0.09);
+  transform: translateY(-2px);
+}
+
+.blog-card__thumbnail-link {
+  flex-shrink: 0;
+  display: block;
+}
+
+.blog-card__thumbnail {
+  width: 170px;
+  height: 120px;
+  object-fit: cover;
+  border-radius: 4px;
+  display: block;
+}
+
+.blog-card__content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  min-width: 0;
+}
+
+.blog-card__title {
+  margin: 0 0 0.1rem 0;
+  font-size: 1.1rem;
+  line-height: 1.35;
+  font-weight: 700;
+}
+
+.blog-card__title a {
+  color: #333;
+  text-decoration: none;
+}
+
+.blog-card__title a:hover {
+  color: #0077cc;
+}
+
+.blog-card__meta {
+  margin: 0;
+  font-size: 0.8rem;
+  color: #888;
+}
+
+.blog-card__tldr {
+  margin: 0.25rem 0 0 0;
+  font-size: 0.875rem;
+  color: #444;
+  line-height: 1.55;
+}
+
+.blog-card__readmore {
+  margin-top: auto;
+  padding-top: 0.5rem;
+  font-size: 0.82rem;
+  font-weight: 600;
+  color: #0077cc;
+  text-decoration: none;
+  align-self: flex-start;
+}
+
+.blog-card__readmore:hover {
+  text-decoration: underline;
+}
+
+@media (max-width: 600px) {
+  .blog-card {
+    flex-direction: column;
+  }
+  .blog-card__thumbnail {
+    width: 100%;
+    height: 180px;
+  }
+}
+
+
+/* ============================================================
+   Blog post article body
+   ============================================================ */
+
+/* Abstract callout */
+.blog-abstract {
+  background: #f5f8fd;
+  border-left: 4px solid #0077cc;
+  padding: 1rem 1.25rem;
+  margin: 1.5rem 0 2rem 0;
+  border-radius: 0 4px 4px 0;
+  font-size: 0.93rem;
+  line-height: 1.65;
+}
+
+.blog-abstract p:last-child {
+  margin-bottom: 0;
+}
+
+.blog-abstract-label {
+  font-weight: 700;
+  font-size: 0.8rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #0077cc;
+  margin-bottom: 0.4rem;
+  display: block;
+}
+
+/* Figures */
+.blog-figure {
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 90%;
+}
+
+.blog-figure img {
+  max-width: 100%;
+  border: 1px solid #e0e0e0;
+  border-radius: 4px;
+}
+
+.blog-figure figcaption {
+  font-size: 0.83rem;
+  color: #666;
+  margin-top: 0.55rem;
+  font-style: italic;
+  line-height: 1.5;
+}
+
+/* Section headings spacing */
+.blog-post-content h2 {
+  margin-top: 2.2rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #eee;
+}
+
+.blog-post-content h3 {
+  margin-top: 1.6rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Display math blocks — give them a bit of room */
+.blog-post-content .MathJax_Display {
+  overflow-x: auto;
+  padding: 0.5rem 0;
+}
+
+/* Inline code */
+.blog-post-content code {
+  font-size: 0.875em;
+  background: #f4f4f4;
+  border-radius: 3px;
+  padding: 0.15em 0.35em;
+}
+
+/* Reference list */
+.blog-references {
+  font-size: 0.83rem;
+  line-height: 1.6;
+  color: #555;
+}
+
+.blog-references ol {
+  padding-left: 1.4rem;
+}
+
+.blog-references li {
+  margin-bottom: 0.4rem;
+}

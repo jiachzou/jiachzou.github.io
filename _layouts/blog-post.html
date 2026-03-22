@@ -1,0 +1,65 @@
+---
+layout: default
+---
+
+{% include base_path %}
+
+<link rel="stylesheet" href="{{ '/assets/css/blog.css' | relative_url }}">
+
+<div id="main" role="main">
+  {% include sidebar.html %}
+
+  <article class="page blog-post-article" itemscope itemtype="http://schema.org/Article">
+    {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
+    {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
+
+    <div class="page__inner-wrap">
+      <header>
+        <h1 class="page__title" itemprop="headline">{{ page.title }}</h1>
+
+        <p class="page__meta">
+          <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
+          <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time>
+          &nbsp;&middot;&nbsp;
+          <i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}
+        </p>
+
+        {% if page.authors %}
+        <p class="page__meta">
+          <i class="fa fa-user" aria-hidden="true"></i> {{ page.authors }}
+        </p>
+        {% endif %}
+      </header>
+
+      <section class="page__content blog-post-content" itemprop="text">
+        {{ content }}
+      </section>
+
+      <footer class="page__meta" style="margin-top: 2rem;">
+        <a href="{{ '/blog/' | relative_url }}" class="btn btn--inverse">
+          <i class="fa fa-arrow-left" aria-hidden="true"></i> Back to Blog
+        </a>
+      </footer>
+    </div>
+  </article>
+</div>
+
+<!-- MathJax for LaTeX-style equations -->
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [['$','$'], ['\\(','\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true,
+      skipTags: ['script','noscript','style','textarea','pre','code']
+    },
+    TeX: {
+      equationNumbers: { autoNumber: "AMS" },
+      extensions: ["AMSmath.js", "AMSsymbols.js"]
+    },
+    "HTML-CSS": { availableFonts: ["TeX"] }
+  });
+</script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
